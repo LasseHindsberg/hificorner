@@ -1,0 +1,12 @@
+/* Imports fonts */
+@import './fonts.css';
+/* Import rest of stylesheets below here */
+@import './home.css';
+
+
+/* ----------------------------------------------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
