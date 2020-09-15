@@ -1,7 +1,8 @@
 /* Imports fonts */
 @import './fonts.css';
 /* Import rest of stylesheets below here */
-    
+
+@import'./product_view.css';
 
 
 /* ----------------------------------------------- */

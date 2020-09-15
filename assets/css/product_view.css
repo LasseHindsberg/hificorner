@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+
+.body_product_view{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.main_product_view{
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.article_product_view{
+    display: flex;
+    justify-content: space-between;
+}
