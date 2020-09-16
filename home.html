@@ -10,13 +10,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/87c28705a7.js" crossorigin="anonymous"></script>
 </head>
-
+<body>
+    <div class="wrapper">
 <header>
     <nav>
         <ul class="nav__topUl">
-            <a href="#"><i class="fas fa-map-marker-alt"></i></a>
-            <a href="#"><i class="fas fa-phone-alt"></i></a>
-            <a href="#"><i class="fas fa-envelope"></i></a>
+            <li><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
+            <li><a href="#"><i class="fas fa-phone-alt"></i></a></li>
+            <li><a href="#"><i class="fas fa-envelope"></i></a></li>
         </ul>
         <ul class="nav__bottomUl">
             <li><a href="#" class="current">HOME</a></li>
@@ -28,6 +29,9 @@
             <li><a href="#">CONTACT US</a></li>
         </ul>
     </nav>
+</header>
+
+
     <section>
         <div class="section__Image">
             <img src="/assets/img/home/speaker.jpg" alt="speaker">
@@ -47,68 +51,85 @@
     </section>
     
     <section id="carousel">
-        <div class="carouselLine"></div>
         <i class="fas fa-chevron-left" id="back"></i>
         <i class="fas fa-chevron-right" id="next"></i>
         <div class="container">
             <div class="carousel">
                 <h2>primaluna sounds</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
+                <img src="/assets/img/home/speaker_slideshow.jpg" alt="headset">
             </div>
 
             <div class="carousel">
-                <h2>222222 222222222</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
+                <h2>Old School</h2>
+                <img src="/assets/img/home/audioplayer_slideshow.jpg" alt="amplifier">
             </div>
 
             <div class="carousel">
-                <h2>333333 3333333</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
+                <h2>Audio Amplifier</h2>
+                <img src="/assets/img/home/amplifier_slideshow.jpg" alt="turntable">
             </div>
 
             <div class="carousel">
-                <h2>44444 44444444</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
-            </div>
-            
-            <div class="carousel">
-                <h2>555555 5555</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
+                <h2>Small Amplifier</h2>
+                <img src="/assets/img/home/amplifier_slideshow2.jpg" alt="turntable">
             </div>
 
             <div class="carousel">
-                <h2>66666 6666666</h2>
-                <img src="https://images.unsplash.com/photo-1594034280179-7eb9c0784e91?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1843&q=80" alt="">
+                <h2>Original Speaker</h2>
+                <img src="/assets/img/home/speaker2_slideshow.jpg" alt="turntable">
+            </div>
+
+            <div class="carousel">
+                <h2>Portebel Speaker</h2>
+                <img src="/assets/img/home/speaker3_slideshow.jpg" alt="turntable">
             </div>
         </div>
     </section>
 
     <section class="social__section">
         <div class="social__facebook">
-            <a href="facebook.com">
+            <a href="https://www.facebook.com" target="_blank">
                 <img src="/assets/img/home/amplifier.jpg" alt="an sound amplifier">
                 <i class="fab fa-facebook"></i>
             </a>
         </div>
         <div class="social__blogger">
-            <a href="blogger.com">
+            <a href="https://www.blogger.com" target="_blank">
                 <img src="/assets/img/home/headset.jpg" alt="a headset">
                 <i class="fab fa-blogger"></i>
             </a>
         </div>
         <div class="social__twitter">
-            <a href="twitter.com">
-                <img src="/assets/img/home/Turntable.jpg" alt="a turntable">
+            <a href="https://www.twitter.com" target="_blank">
+                <img src="/assets/img/home/turntable.jpg" alt="a turntable">
                 <i class="fab fa-twitter"></i>
             </a>
         </div>
     </section>
-</header>
-
-<body>
-    <div class="wrapper">
-
-    </div>
+    <footer>
+        <section class="footer__grid_cell1">
+            <section class="footer__place">
+                <p>Hi Fi Corner</p>
+                <p>Edinburgh 2 Joppa Road EH15 2EU</p>
+                <p>Falkirk 44 Cow Wynd FK1 1PU</p>
+            </section>
+            <section class="footer__refund">
+                <a href="#">Returns & Refunds</a> | <a href="#">Privacy Policy</a>
+            </section>
+        </section>
+        <section class="footer__grid_cell2">
+            <section class="footer__payment">
+                <img src="/assets/img/footer/pay_logos.png" alt="payment">
+            </section>
+            <section class="footer__social">
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a>
+                <a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+            </section>
+        </section>
+    </footer>
+</div>
     <script src="./assets/js/script.js"></script>
     <script src="./assets/js/carousel.js"></script>
 </body>

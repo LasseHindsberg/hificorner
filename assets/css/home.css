@@ -1,31 +1,9 @@
 @import './carousel.css';
-
+@import './nav.css';
+@import './footer.css';
 img{
     width: 100%;
     height: auto;
-}
-
-nav ul{
-    list-style-type:none;
-    display:flex;
-    padding:1em 0;
-    font-family: 'Museo Sans Rounded 300', 'Gill Sans';
-    background-color: #000;
-}
-nav a{
-    text-decoration:none;
-    color:#FFF;
-    margin: 0 15px;
-}
-.nav__topUl{
-    padding: 0.5em 0;
-    color: white;
-    font-size: 30px;
-    justify-content: flex-end;
-}
-.nav__bottomUl{
-    border-top:solid 1px #a391617a;
-    justify-content: center;
 }
 .hifi-logo{
     font-family: 'Museo Sans Rounded 500', sans-serif;
@@ -56,9 +34,7 @@ nav a{
     font-family: 'Museo Sans Rounded 500', sans-serif;
     letter-spacing: 2px;
 }
-.current{
-    color: #a39161;
-}
+
 .section__Image img, .section__Image__2 img, .section__Image__3 img{
     object-fit: cover;
     display: block;
@@ -97,8 +73,9 @@ nav a{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
-.social__twitter, .social__facebook, .social__blogger{
+.social__twitter a, .social__facebook a, .social__blogger a{
     display: grid;
+    text-decoration: none;
 }
 .social__twitter img, .social__facebook img, .social__blogger img{
     grid-area: 1/1/2/2;
@@ -109,3 +86,7 @@ nav a{
     color: #fff;
     font-size: 200px;
 }
+.social__twitter a, .social__facebook a, .social__blogger a{
+    grid-area: 1/1/2/2;
+}
+
