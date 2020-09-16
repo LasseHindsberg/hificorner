@@ -3,7 +3,7 @@ html{
 }
 
 .body_product_view{
-    width: 1280px;
+    max-width: 1280px;
     margin: 0 auto;
 }
 
@@ -14,6 +14,48 @@ html{
 }
 
 .article_product_view{
+    display: flex;
+}
+
+.product_view_info{
+    width: 100%;
+    max-width: 570px;
+    margin-left: 5em;
+}
+
+.old_price{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.product_name{
+    color: #A39161;
+}
+
+.required{
+    color: red;
+}
+
+.text_price{
+    color: #A39161;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 0;
+}
+
+.buttons{
+    margin-top: 2em;
+}
+
+.buttons button{
+    background-color: #A39161;
+    color: white;
+    border: none;
+    padding: .5em 1em;
+    font-size: 12px;
+}
+
+.info_product_box{
     display: flex;
     justify-content: space-between;
 }
