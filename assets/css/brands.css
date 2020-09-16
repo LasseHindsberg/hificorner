@@ -1,0 +1,96 @@
+#brands{
+    background: #000;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+.brands__header{
+    padding: 2em 10%;
+    background-color: #000; /*Fallback*/
+    background: url("../img/brands/brands-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brands__header h1{
+    color: #FFF;
+    font-family: 'Museo Sans Rounded 100', sans-serif;
+}
+.hifi-logo{
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    color: #FFF;
+}
+.hifi-box{
+    height: 150px;
+    width: 150px;
+    padding: 0 0.7em 0.7em;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.hifi-box__name{
+    display: block;
+    font-size: 2em;
+    line-height: 0.9em;
+    letter-spacing: 0.1em;
+}
+.hifi-box__name:last-child{
+    letter-spacing: 0.34em;
+}
+.hifi-logo__name{
+    padding: 0.5em 0;
+    font-size: 0.811em;
+    text-transform: uppercase;
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    letter-spacing: 2px;
+}
+
+
+.brands__content{
+    display: flex;
+    background-color: #FFF;
+    padding: 1.5em;
+    margin: 0 10%;
+}
+.brands__logos img{
+    width: 100%;
+    height: auto;
+}
+.brands__logos, .brands__text{
+    flex: 1;
+    background-color: #111;
+    padding: 1.5em;
+}
+.brands__text{
+    background-color: #333;
+}
+.brands__logos__h3{
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    color: #a39161;
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+.brands__text__h2{
+    font-family: 'Museo Sans Rounded 100', sans-serif;
+    color: #a39161;
+    padding-bottom: 1em;
+}
+.brands__text__paragraph{
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    color: #FFF;
+    padding-bottom: 1em;
+}
+.brands__text__link{
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    color: #a39161;
+}
+
+
+@media only screen and (max-width: 850px) {
+    .brands__content{
+        flex-direction: column;
+    }
+}
