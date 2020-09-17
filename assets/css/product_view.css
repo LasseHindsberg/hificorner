@@ -12,6 +12,7 @@
 
 .article_product_view{
     display: flex;
+
 }
 .product_view_img{
     flex: 1;
@@ -32,6 +33,7 @@
     text-decoration: line-through;
     color: gray;
 }
+
 .current_product{
     display: inline-block;
 }
@@ -49,6 +51,7 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 
 }
+
 .required{
     color: red;
 }
@@ -123,9 +126,11 @@
     margin-left: 7em;
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
+
 .moreviews img{
     width: auto;
 }
+
 
 
 .paypal_logo{
