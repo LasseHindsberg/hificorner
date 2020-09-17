@@ -1,7 +1,7 @@
 .categoryList{
     display: flex;
     max-width: 1920px;
-    margin: 2em auto;
+    margin: 2em auto 5em;
     padding: 0 2%;
     font-family: 'Museo Sans Rounded 500';
     font-style: normal;
@@ -57,9 +57,6 @@ p.headText{
 .left{
     width: 25%;
 }
-select#sorting{
-    width: 25%;
-}
 select#number{
     width: 10%;
     height: 20px;
@@ -95,8 +92,7 @@ select#number{
 }
 .product{
     display: grid;
-    margin: 0 auto;
-    grid-template-rows: repeat(3, 0fr);
+    grid-template-rows: auto;
 }
 .product p{
     width: 80%;
@@ -124,7 +120,6 @@ p.price{
     background-color: rgb(179, 162, 125);
     text-decoration: none;
     color: white;
-    align-self: flex-end;
     margin: 0 auto;
     width: 70%;
 }

@@ -1,7 +1,7 @@
 {
     "product":[
         {
-            "name": "yamaha R-n402 Network hifi receiver",
+            "name": "Yamaha R-N402 Network Hifi Receiver",
             "image": "./assets/img/screenshots/picture1.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -25,8 +25,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Yamaha",
+                    "manufactorLinkName": "Yamaha R-N402",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -36,11 +36,11 @@
             ]
         },
         {
-            "name": "Rotel a10 stereo amplifier",
+            "name": "Rotel A10 Stereo Amplifier",
             "image": "./assets/img/screenshots/picture2.png",
             "price": "£389.95",
             "oldPrice": "",
-            "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore enim optio quidem ullam. Quia iste dolores architecto provident quas corporis omnis molestiae. Quod cum, repellat eaque quae officia totam ab?",
             "id": "2",
             "info":[
                 {
@@ -60,8 +60,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Rotel",
+                    "manufactorLinkName": "Rotel A10",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 uk edition integrated amplifier",
+            "name": "Marantz PM6006 UK Edition Integrated Amplifier",
             "image": "./assets/img/screenshots/picture3.png",
             "price": "£429.00",
             "oldPrice": "£469.00",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "name": "yamaha a-s701 stereo amplifier",
+            "name": "Yamaha A-S701 Stereo Amplifier",
             "image": "./assets/img/screenshots/picture4.png",
             "price": "£579.00",
             "oldPrice": "",
@@ -130,8 +130,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Yamaha",
+                    "manufactorLinkName": "Yamaha A-S701",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "name": "audiolab 6000a stereo integrated amplifier",
+            "name": "Audiolab 6000A Stereo Integrated Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£599.00",
             "oldPrice": "",
@@ -165,8 +165,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Audiolab",
+                    "manufactorLinkName": "Audiolab 6000A",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -176,7 +176,7 @@
             ]
         },
         {
-            "name": "quad vena mini hifi system",
+            "name": "Quad Vena Mini Hifi System",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£599.00",
             "oldPrice": "",
@@ -200,8 +200,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Quad Vena",
+                    "manufactorLinkName": "Quad Vena Mini",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -211,7 +211,7 @@
             ]
         },
         {
-            "name": "marantz mm7025 power amplifier",
+            "name": "Marantz MM7025 Power Amplifier",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
