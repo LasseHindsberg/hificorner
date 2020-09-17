@@ -1,7 +1,8 @@
 .categoryList{
     display: flex;
-    width: 86%;
-    margin: 0 auto;
+    max-width: 1920px;
+    margin: 2em auto;
+    padding: 0 2%;
     font-family: 'Museo Sans Rounded 500';
     font-style: normal;
 }
@@ -89,9 +90,7 @@ select#number{
 .products{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(4, 1fr);
-    grid-gap: 50px 0px;
-    row-gap: 0px 0px;
+    grid-gap: 40px 10px;
     text-align: center;
 }
 .product{

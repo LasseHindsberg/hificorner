@@ -1,10 +1,7 @@
-.body_product_view{
-    max-width: 1280px;
-    margin: 0 auto;
-}
+
 
 .main_product_view{
-    width: 100%;
+    max-width: 1280px;
     background-color: white;
     margin: 2em auto;
     padding: 0 2%;
