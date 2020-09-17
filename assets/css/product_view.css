@@ -1,3 +1,7 @@
+html{
+    background-color: black;
+}
+
 .body_product_view{
     max-width: 1280px;
     margin: 0 auto;
@@ -6,50 +10,28 @@
 .main_product_view{
     width: 100%;
     background-color: white;
-    margin: 2em auto;
-    padding: 0 2%;
+    margin: 0 auto;
 }
 
 .article_product_view{
     display: flex;
+    margin-left: 1em;
+}
 
-}
-.product_view_img{
-    flex: 1;
-    margin-right: 5%;
-}
 .product_view_info{
-    flex: 1;
+    width: 100%;
+    max-width: 570px;
+    margin-left: 5em;
 }
-.breadcrumb a{
-    color: #A39161;
-    text-decoration: none;
-}
-.breadcrumb{
-    margin: 1em 0;
-    font-family: 'Museo Sans Rounded 100', sans-serif;
-}
+
 .old_price{
     text-decoration: line-through;
     color: gray;
 }
 
-.current_product{
-    display: inline-block;
-}
-
 .product_name{
-    text-transform: uppercase;
     color: #A39161;
     font-family: 'Museo Sans Rounded 300', sans-serif;
-}
-.see_other_products{
-    text-decoration: none;
-    color: #A39161;
-}
-.description{
-    font-family: 'Museo Sans Rounded 300', sans-serif;
-
 }
 
 .required{
@@ -127,10 +109,6 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.moreviews img{
-    width: auto;
-}
-
 
 
 .paypal_logo{
@@ -202,7 +180,7 @@
 
 .product_description_name{
     color: #A39161;
-    margin-top: 10em;
+    margin-top: 17em;
     padding-bottom: .5em;
 }
 
@@ -211,6 +189,7 @@
     text-align: center;
     background-color: #000;
     padding: .5%;
+    margin: 0 1em;
     margin-top: 1em;
 }
 
