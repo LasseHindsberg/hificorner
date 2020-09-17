@@ -1,0 +1,151 @@
+.categoryList{
+    display: flex;
+    width: 86%;
+    margin: 0 auto;
+    font-family: 'Museo Sans Rounded 500';
+    font-style: normal;
+}
+
+/*---------------------------------VENSTRE SIDE---------------------------------*/
+
+.options{
+    width: 15%;
+    display: block;
+}
+.amplifiers a, .shopby a{
+    display: block;
+    color: rgb(179, 162, 125);
+    text-decoration: none;
+    padding: 3px 0;
+    font-size: 14px;
+}
+.amplifiers{
+    padding: 20px;
+    background-color: rgb(228, 228, 228);
+    margin-bottom: 20px;
+}
+.shopby{
+    padding: 20px;
+    background-color: rgb(228, 228, 228);
+}
+.shopby p{
+    padding: 10px 0;
+}
+p.headText{
+    padding: 25px 0px 0;
+    color: rgb(179, 162, 125);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+
+/*---------------------------------MIDTEN---------------------------------*/
+
+.categories{
+    width: 70%;
+    padding: 0px 20px;
+}
+.headCategory{
+    background-color: rgb(228, 228, 228);
+    padding: 10px 20px 25px;
+    display: flex;
+    width: 100%;
+    font-size: 14px;
+}
+.left{
+    width: 25%;
+}
+select#sorting{
+    width: 25%;
+}
+select#number{
+    width: 10%;
+    height: 20px;
+}
+.items{
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.view{
+    text-align: end;
+}
+.view img{
+    width: 6%;
+    margin-left: 10px;
+    align-content: center;
+}
+.right{
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+.headerText{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-gap: 50px 0px;
+    row-gap: 0px 0px;
+    text-align: center;
+}
+.product{
+    display: grid;
+    margin: 0 auto;
+    grid-template-rows: repeat(3, 0fr);
+}
+.product p{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 14px;
+}
+p.price{
+    font-size: 16px;
+    padding: 20px 0 30px;
+    color: rgb(179, 162, 125);
+}
+.oldPrice{
+    color: rgb(172, 172, 172);
+    text-decoration: line-through;
+    padding-right: 10px;
+}
+.product img{
+    width: 100%;
+    align-content: center;
+    margin: 20px 0 10px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.product a{
+    padding: 8px 16px;
+    background-color: rgb(179, 162, 125);
+    text-decoration: none;
+    color: white;
+    align-self: flex-end;
+    margin: 0 auto;
+    width: 70%;
+}
+
+/*---------------------------------HØJRE SIDE---------------------------------*/
+
+.manufacturer{
+    width: 15%;
+    display: block;
+}
+p.diffText{
+    color: rgb(179, 162, 125);
+}
+.manufacturer p{
+    font-size: 14px;
+}
+.normalText p{
+    padding: 10px 5px;
+}
+.manufacturer a{
+    text-decoration: none;
+    color: rgb(179, 162, 125);
+}

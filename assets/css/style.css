@@ -2,6 +2,7 @@
 @import './fonts.css';
 /* Import rest of stylesheets below here */
 @import './home.css';
+@import './products.css';
 
 
 /* ----------------------------------------------- */
@@ -10,4 +11,3 @@
     padding: 0;
     box-sizing: border-box;
 }
-
