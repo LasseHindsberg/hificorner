@@ -79,6 +79,7 @@ img{
 }
 .social__twitter img, .social__facebook img, .social__blogger img{
     grid-area: 1/1/2/2;
+    display: block;
 }
 .social__twitter i, .social__facebook i, .social__blogger i{
     grid-area: 1/1/2/2;
@@ -88,5 +89,36 @@ img{
 }
 .social__twitter a, .social__facebook a, .social__blogger a{
     grid-area: 1/1/2/2;
+}
+
+.bottomLinks {
+    display: flex;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-family: 'Museo Sans Rounded 300';
+    font-size: 1em;
+    background-color: #111111;
+    color: #ffffff;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+
+.bottomLinks_container {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    padding: 50px;
+}
+
+.bottomLinks__button {
+    font-family: 'Museo Sans Rounded 700';
+    text-transform: uppercase;
+    font-size: 1.2em;
+    border: 1px solid #ffffff;
+    background: transparent;
+    color: #a39161;
+    padding: 5px 25px;
+    margin-bottom: 15px;
 }
 
