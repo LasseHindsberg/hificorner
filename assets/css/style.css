@@ -2,8 +2,9 @@
 @import './fonts.css';
 /* Import rest of stylesheets below here */
 @import './brands.css';
+@import'./product_view.css';
 @import './home.css';
-@import './carousel.css';
+@import './products.css';
 /* ----------------------------------------------- */
 * {
     margin: 0;
