@@ -1,0 +1,124 @@
+@import './carousel.css';
+@import './nav.css';
+@import './footer.css';
+img{
+    width: 100%;
+    height: auto;
+}
+.hifi-logo{
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    color: #FFF;
+}
+.hifi-box{
+    height: 200px;
+    width: 200px;
+    padding: 0 0.7em 0.7em;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.hifi-box__name{
+    display: block;
+    font-size: 2.3em;
+    line-height: 0.9em;
+    letter-spacing: 0.1em;
+}
+.hifi-box__name:last-child{
+    letter-spacing: 0.34em;
+}
+.hifi-logo__name{
+    padding: 0.5em 0;
+    font-size: 1.16em;
+    text-transform: uppercase;
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    letter-spacing: 2px;
+}
+
+.section__Image img, .section__Image__2 img, .section__Image__3 img{
+    object-fit: cover;
+    display: block;
+}
+.section__Image img{
+    height: 600px;
+    grid-area: 1/1/2/2;
+}
+.section__Image div{
+    grid-area: 1/1/2/2;
+    justify-self: center;
+    align-self: center;
+}
+.section__Image{
+    display: grid;
+}
+.section__Image__2{
+    display: grid;
+}
+.section__Image__2 p{
+    grid-area: 1/1/2/2;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 41px;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    padding: 0 25%;
+    color: #fff;
+}
+.section__Image__2 img{
+    height: 400px;
+    grid-area: 1/1/2/2;
+}
+.social__section{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.social__twitter a, .social__facebook a, .social__blogger a{
+    display: grid;
+    text-decoration: none;
+}
+.social__twitter img, .social__facebook img, .social__blogger img{
+    grid-area: 1/1/2/2;
+    display: block;
+}
+.social__twitter i, .social__facebook i, .social__blogger i{
+    grid-area: 1/1/2/2;
+    place-self: center;
+    color: #fff;
+    font-size: 200px;
+}
+.social__twitter a, .social__facebook a, .social__blogger a{
+    grid-area: 1/1/2/2;
+}
+
+.bottomLinks {
+    display: flex;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-family: 'Museo Sans Rounded 300';
+    font-size: 1em;
+    background-color: #111111;
+    color: #ffffff;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+
+.bottomLinks_container {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    padding: 50px;
+}
+
+.bottomLinks__button {
+    font-family: 'Museo Sans Rounded 700';
+    text-transform: uppercase;
+    font-size: 1.2em;
+    border: 1px solid #ffffff;
+    background: transparent;
+    color: #a39161;
+    padding: 5px 25px;
+    margin-bottom: 15px;
+}
+
