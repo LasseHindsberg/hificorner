@@ -1,0 +1,215 @@
+.body_product_view{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.main_product_view{
+    width: 100%;
+    background-color: white;
+    margin: 2em auto;
+    padding: 0 2%;
+}
+
+.article_product_view{
+    display: flex;
+}
+.product_view_img{
+    flex: 1;
+    margin-right: 5%;
+}
+.product_view_info{
+    flex: 1;
+}
+.breadcrumb a{
+    color: #A39161;
+    text-decoration: none;
+}
+.breadcrumb{
+    margin: 1em 0;
+    font-family: 'Museo Sans Rounded 100', sans-serif;
+}
+.old_price{
+    text-decoration: line-through;
+    color: gray;
+}
+.current_product{
+    display: inline-block;
+}
+
+.product_name{
+    text-transform: uppercase;
+    color: #A39161;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+.see_other_products{
+    text-decoration: none;
+    color: #A39161;
+}
+.description{
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+
+}
+.required{
+    color: red;
+}
+
+.text_price{
+    color: #A39161;
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 0;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+
+.buttons{
+    margin-top: 2em;
+}
+
+.buttons button{
+    background-color: #A39161;
+    color: white;
+    border: none;
+    padding: .5em 1em;
+    font-size: 12px;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+
+.info_product_box{
+    display: flex;
+    justify-content: space-between;
+    padding-left: .5em;
+    padding-top: .5em;
+    margin-right: 1em;
+}
+
+.add_to_cart_box{
+    padding-top: 1em;
+    border-top: 1px solid gray;
+    border-top: none;
+    padding: 1em;
+    background-color: #E1E1E1;
+    padding-bottom: 2em;
+}
+
+.product_view_form{
+    border: 1px solid gray;
+    margin-top: 1em;
+    color: #A39161;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+
+.color_choise{
+    padding: 1em;
+    border-bottom: 1px solid gray;
+}
+
+.quantety{
+    max-width: 40px;
+    height: 30px;
+}
+
+#add_to_cart{
+    height: 30px;
+    background-color: #A39161;
+    color: white;
+    border: none;
+    padding: .3em 1.8em;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+
+.or{
+    display: block;
+    color: #A39161;
+    margin-left: 7em;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+.moreviews img{
+    width: auto;
+}
+
+
+.paypal_logo{
+    max-width: 120px;
+    margin-left: 4.5em;
+}
+
+.black, .silver{
+    background-color: #E1E1E1;
+    padding: .3em 1em;
+    max-width: 200px;
+    color: #000;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+}
+
+.black{
+    margin-bottom: .4em;
+
+}
+
+.additional_information{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-row: auto;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+
+}
+
+.additional_information p{
+    padding: 1em;
+    border: 1px solid gray;
+}
+
+.additional_information>p:nth-child(odd){
+    background-color: #E1E1E1;
+    max-width: 200px;
+}
+.additional_information>p:nth-child(even){
+    padding-right: 230px;
+}
+
+.additional_information p a{
+    color: #A39161;
+    text-decoration: none;
+}
+
+.additional_information_name{
+    color: #A39161;
+    padding-top: 1em;
+    padding-bottom: .5em;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+
+}
+
+.product_description{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    max-width: 400px;
+}
+
+.product_description p{
+    padding: .1em 0;
+}
+
+.product_description p:nth-child(even){
+    text-align: right;
+}
+
+.product_description_name{
+    color: #A39161;
+    margin-top: 10em;
+    padding-bottom: .5em;
+}
+
+.call_us{
+    color: #A39161;
+    text-align: center;
+    background-color: #000;
+    padding: .5%;
+    margin-top: 1em;
+}
+
+.call_us h2 i{
+    color: white;
+    transform: rotate(90deg);
+}
