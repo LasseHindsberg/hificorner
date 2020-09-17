@@ -664,6 +664,41 @@
                     "cardSurcharges": "No"
                 }
             ]
+        },
+        {
+            "name": "marantz pm6006 integrated amplifier",
+            "image": "./assets/img/screenshots/picture5.png",
+            "price": "£329.00",
+            "oldPrice": "£429.00",
+            "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
+            "id": "20",
+            "info":[
+                {
+                    "PowerOutput": "45 W / 60 W",
+                    "frequency": "70 kHz",
+                    "distortion": "0.08%",
+                    "dampingFactor": "100",
+                    "sensitivityMM": "2.2 mV / 47 kOhm",
+                    "sensitivityMC": "1.2 mV / 32 kOhm",
+                    "noiseMMMC": "83 dB",
+                    "sensitivityHigh": "200 mV / 20 kOhm",
+                    "sensitivityBalanced": "140 mV / 12 kOhm",
+                    "noiceHigh": "102dB",
+                    "sensitivityPower": "",
+                    "noisePower": ""
+                }
+            ],
+            "addInfo":[
+                {
+                    "manufactor": "Marantz",
+                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLink": "https://www.marantz.com/da-dk",
+                    "warranty": "3 years",
+                    "delivery": "Free",
+                    "deliveryTime": "1-5 Working Days",
+                    "cardSurcharges": "No"
+                }
+            ]
         }
     ]
 }
