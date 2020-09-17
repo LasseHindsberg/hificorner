@@ -1,8 +1,8 @@
 /* Imports fonts */
 @import './fonts.css';
 /* Import rest of stylesheets below here */
+@import './home.css';
 @import './products.css';
-    
 
 
 /* ----------------------------------------------- */
