@@ -150,23 +150,19 @@
 
 .additional_information{
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: auto 3fr;
     grid-row: auto;
     font-family: 'Museo Sans Rounded 300', sans-serif;
 
 }
 
 .additional_information p{
-    padding: 1em;
+    padding: 1em 0.5em;
     border: 1px solid gray;
 }
 
 .additional_information>p:nth-child(odd){
     background-color: #E1E1E1;
-    max-width: 200px;
-}
-.additional_information>p:nth-child(even){
-    padding-right: 230px;
 }
 
 .additional_information p a{

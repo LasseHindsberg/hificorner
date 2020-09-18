@@ -8,9 +8,13 @@ function showProduct(id) {
             return product.id == id;
         })
         if (index < 0) {
+            let main = document.querySelector(".main_product_view");
+            main.querySelectorAll('*').forEach(n => n.remove());
             let h1 = document.createElement("h1");
-            h1.innerHTML = "404: Siden findes ikke"
-            document.querySelector(".productView").appendChild(h1);
+            h1.innerHTML = "404: Siden findes ikke.";
+            h1.style.margin = "8em 0";
+            h1.style.textAlign = "center";
+            main.appendChild(h1);
             return;
         }
         let product = products[index];
@@ -39,10 +43,38 @@ function showProduct(id) {
         
         manufactor.innerText = product.addInfo[0].manufactor;
         manufactorLink.innerText = product.addInfo[0].manufactorLinkName;
+        manufactorLink.href = product.addInfo[0].manufactorLink;
         warranty.innerText = product.addInfo[0].warranty;
         delivery_charge.innerText = product.addInfo[0].delivery;
         delivery_charge_name.innerText = product.addInfo[0].deliveryTime;
         card_surcharges.innerText = product.addInfo[0].cardSurcharges;
+
+        // DESCRIPTION 
+        let PowerOutput = document.querySelector(".power_output_name");
+        let frequency = document.querySelector(".frequency_name");
+        let distortion = document.querySelector(".total_harmonic_name");
+        let dampingFactor = document.querySelector(".damping_factor_name");
+        let sensitivityMM = document.querySelector(".input_sensitivity_mm_name");
+        let sensitivityMC = document.querySelector(".input_sensitivity_mc_name");
+        let noiseMMMC = document.querySelector(".signal_noise_name");
+        let sensitivityHigh = document.querySelector(".input_sensitivity_high_name");
+        let sensitivityBalanced = document.querySelector(".input_sensitivity_bal_name");
+        let noiceHigh = document.querySelector(".signal_noise_high_name");
+        let sensitivityPower = document.querySelector(".input_sensitivity_amp_name");
+        let noisePower = document.querySelector(".signal_noise_amp_name");
+
+        PowerOutput.innerText = product.info[0].PowerOutput;
+        frequency.innerText = product.info[0].frequency;
+        distortion.innerText = product.info[0].distortion;
+        dampingFactor.innerText = product.info[0].dampingFactor;
+        sensitivityMM.innerText = product.info[0].sensitivityMM;
+        sensitivityMC.innerText = product.info[0].sensitivityMC;
+        noiseMMMC.innerText = product.info[0].noiseMMMC;
+        sensitivityHigh.innerText = product.info[0].sensitivityHigh;
+        sensitivityBalanced.innerText = product.info[0].sensitivityBalanced;
+        noiceHigh.innerText = product.info[0].noiceHigh;
+        sensitivityPower.innerText = product.info[0].sensitivityPower;
+        noisePower.innerText = product.info[0].noisePower;
     });
 }
 showProduct();
