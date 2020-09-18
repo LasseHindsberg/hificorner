@@ -1,16 +1,14 @@
 var url = new URLSearchParams(window.location.search);
 
-if (!url.get("id")) {
-    showProducts();
-}
-
 
 function showProducts(){
     getProducts()
     .then(function(products){
         let allProducts = document.querySelector(".products");
+        let items = document.querySelector(".itemsNumber");
 
-        products.forEach(function(product) { 
+        products.forEach(function(product) {
+            items.innerText = products.length; //Show how many items on the page
             const productContainer = document.createElement('div');
             productContainer.classList.add('product');
             
@@ -25,6 +23,7 @@ function showProducts(){
         });
     });
 }
+showProducts();
 
 function getProducts(){
     return fetch("./data.json")
