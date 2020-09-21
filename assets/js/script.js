@@ -18,7 +18,7 @@ function showProducts(){
                 <p class="price"><span class="oldPrice">${product.oldPrice}</span>${product.price}</p>
                 <a href="" class="productLink">ADD TO CART</a>
             `
-            productContainer.querySelector(".productLink").href = `/product.html?id=${product.id}`;
+            productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
             allProducts.appendChild(productContainer);
         });
     });

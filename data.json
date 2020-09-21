@@ -1,7 +1,7 @@
 {
     "product":[
         {
-            "name": "YAMAHA R-N402 NETWORK HIFI RECEIVER",
+            "name": "Yamaha R-N402 Network Hifi Receiver",
             "image": "./assets/img/screenshots/picture1.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -36,7 +36,7 @@
             ]
         },
         {
-            "name": "ROTEL A10 STEREO AMPLIFIER",
+            "name": "Rotel A10 Stereo Amplifier",
             "image": "./assets/img/screenshots/picture2.png",
             "price": "£389.95",
             "oldPrice": "",
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "name": "MARANTZ PM6006 UK EDITION INTEGRATED AMPLIFIER",
+            "name": "Marantz PM6006 UK Edition Integrated Amplifier",
             "image": "./assets/img/screenshots/picture3.png",
             "price": "£429.00",
             "oldPrice": "£469.00",
@@ -106,7 +106,7 @@
             ]
         },
         {
-            "name": "YAMAHA A-S701 STEREO AMPLIFIER",
+            "name": "Yamaha A-S701 Stereo Amplifier",
             "image": "./assets/img/screenshots/picture4.png",
             "price": "£579.00",
             "oldPrice": "",
@@ -141,7 +141,7 @@
             ]
         },
         {
-            "name": "AUDIOLAB 6000A STEREO INTEGRATED AMPLIFIER",
+            "name": "Audiolab 6000a Stereo Integrated Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£599.00",
             "oldPrice": "",
@@ -176,7 +176,7 @@
             ]
         },
         {
-            "name": "QUAD VENA MINI HIFI SYSTEM",
+            "name": "Quad Vena Mini Hifi System",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£599.00",
             "oldPrice": "",
@@ -211,7 +211,7 @@
             ]
         },
         {
-            "name": "MARANTZ MM7025 POWER AMPLIFIER",
+            "name": "Marantz Mm7025 Power Amplifier",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£699.00",
             "oldPrice": "£799.00",
@@ -246,7 +246,7 @@
             ]
         },
         {
-            "name": "ARCAM HDA SA10 INTEGRATED AMPLIFIER",
+            "name": "Arcam Hda Sa10 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture8.png",
             "price": "£699.00",
             "oldPrice": "",
@@ -281,7 +281,7 @@
             ]
         },
         {
-            "name": "ROTEL A12 STEREO AMPLIFIER",
+            "name": "Rotel A12 Stereo Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£699.00",
             "oldPrice": "",
@@ -316,7 +316,7 @@
             ]
         },
         {
-            "name": "NAIM NAP 100 POWER AMPLIFIER",
+            "name": "Naim Nap 100 Power Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£799.00",
             "oldPrice": "",
@@ -351,7 +351,7 @@
             ]
         },
         {
-            "name": "MERIDIAN 218 ZONE CONTROLLER",
+            "name": "Meridian 218 Zone Controller",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£800.00",
             "oldPrice": "",
@@ -386,7 +386,7 @@
             ]
         },
         {
-            "name": "ROTEL RB 1552 MKII STEREO AMPLIFIER",
+            "name": "Rotel Rb 1552 Mkii Stereo Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£845.00",
             "oldPrice": "",
@@ -421,7 +421,7 @@
             ]
         },
         {
-            "name": "ROTEL RC 1570 PRE AMPLIFIER",
+            "name": "Rotel Rc 1570 Pre Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£845.00",
             "oldPrice": "",
@@ -456,7 +456,7 @@
             ]
         },
         {
-            "name": "ROTEL A14 INTEGRATED AMPLIFIER",
+            "name": "Rotel A14 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£899.00",
             "oldPrice": "",
@@ -491,7 +491,7 @@
             ]
         },
         {
-            "name": "audiolab 8300a stereo amplifier",
+            "name": "Audiolab 8300a Stereo Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£899.95",
             "oldPrice": "",
@@ -526,7 +526,7 @@
             ]
         },
         {
-            "name": "graham slee accession mm phono stage pre amplifier",
+            "name": "Graham Slee Accession Mm Phono Stage Pre Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£935.00",
             "oldPrice": "",
@@ -561,7 +561,7 @@
             ]
         },
         {
-            "name": "quad qc 24 pre-amplifier",
+            "name": "Quad Qc 24 Pre-Amplifier",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£629.00",
             "oldPrice": "£429.00",
@@ -596,7 +596,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -631,7 +631,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -666,7 +666,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -701,7 +701,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -736,7 +736,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -771,7 +771,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -806,7 +806,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -841,7 +841,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -876,7 +876,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -911,7 +911,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -946,7 +946,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -981,7 +981,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1016,7 +1016,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1051,7 +1051,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1086,7 +1086,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1121,7 +1121,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1156,7 +1156,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1191,7 +1191,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1226,7 +1226,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1261,7 +1261,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1296,7 +1296,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1330,7 +1330,7 @@
                 }
             ]
         },{
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1365,7 +1365,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1400,7 +1400,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1435,7 +1435,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1470,7 +1470,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1505,7 +1505,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1540,7 +1540,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1575,7 +1575,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1610,7 +1610,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1645,7 +1645,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1680,7 +1680,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1715,7 +1715,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1750,7 +1750,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1785,7 +1785,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1820,7 +1820,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1855,7 +1855,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1890,7 +1890,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1925,7 +1925,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1960,7 +1960,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -1995,7 +1995,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2030,7 +2030,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2065,7 +2065,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2100,7 +2100,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2135,7 +2135,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2170,7 +2170,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2205,7 +2205,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2240,7 +2240,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2275,7 +2275,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2310,7 +2310,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2345,7 +2345,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2380,7 +2380,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2415,7 +2415,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2450,7 +2450,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2485,7 +2485,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2520,7 +2520,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2555,7 +2555,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2590,7 +2590,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2625,7 +2625,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2660,7 +2660,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2695,7 +2695,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2730,7 +2730,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2765,7 +2765,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2800,7 +2800,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2835,7 +2835,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2870,7 +2870,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2905,7 +2905,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2940,7 +2940,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -2975,7 +2975,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3010,7 +3010,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3045,7 +3045,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3080,7 +3080,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3115,7 +3115,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3150,7 +3150,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3185,7 +3185,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3220,7 +3220,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3255,7 +3255,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3290,7 +3290,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3325,7 +3325,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3360,7 +3360,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3395,7 +3395,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3430,7 +3430,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3465,7 +3465,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3500,7 +3500,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3535,7 +3535,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3570,7 +3570,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3605,7 +3605,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3640,7 +3640,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3675,7 +3675,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3710,7 +3710,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3745,7 +3745,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3780,7 +3780,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3815,7 +3815,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3850,7 +3850,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3885,7 +3885,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3920,7 +3920,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3955,7 +3955,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -3990,7 +3990,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4025,7 +4025,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4060,7 +4060,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4095,7 +4095,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4130,7 +4130,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4165,7 +4165,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4200,7 +4200,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4235,7 +4235,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4270,7 +4270,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4305,7 +4305,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4340,7 +4340,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4375,7 +4375,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4410,7 +4410,7 @@
             ]
         },
         {
-            "name": "marantz pm6006 integrated amplifier",
+            "name": "Marantz Pm6006 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4445,7 +4445,7 @@
             ]
         },
         {
-            "name": "NAIM NAP 500 POWER AMPLIFIER",
+            "name": "Naim Nap 500 Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£329.00",
             "oldPrice": "£429.00",
@@ -4480,7 +4480,7 @@
             ]
         },
         {
-            "name": "DEVIALET EXPERT 1000 PRO INTEGRATED AMPLIFIER",
+            "name": "Devialet Expert 1000 Pro Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£24,900.00",
             "oldPrice": "",
@@ -4515,7 +4515,7 @@
             ]
         },
         {
-            "name": "CHORD CPA 800 PRE AMPLIFIER",
+            "name": "Chord Cpa 800 Pre Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£27,700.00",
             "oldPrice": "",
@@ -4550,7 +4550,7 @@
             ]
         },
         {
-            "name": "AVID REFERENCE STEREO POWER AMPLIFIER",
+            "name": "Avid Reference Stereo Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": "£30,000.00",
             "oldPrice": "",
@@ -4585,7 +4585,7 @@
             ]
         },
         {
-            "name": "AVID REFERENCE PRE AMPLIFIER",
+            "name": "Avid Reference Pre Amplifier",
             "image": "./assets/img/screenshots/picture7.png",
             "price": "£50,000.00",
             "oldPrice": "",
@@ -4620,7 +4620,7 @@
             ]
         },
         {
-            "name": "AVID REFERENCE MONO POWER AMPKIFIER PAIR",
+            "name": "Avid Reference Mono Power Ampkifier Pair",
             "image": "./assets/img/screenshots/picture8.png",
             "price": "£70,000.00",
             "oldPrice": "",
