@@ -14,7 +14,7 @@ function showProducts(){
             
             productContainer.innerHTML = `
                 <img src="${product.image}" alt="${product.name}">
-                <p>${product.name}</p>
+                <p class="products__productName">${product.name}</p>
                 <p class="price"><span class="oldPrice">${product.oldPrice}</span>${product.price}</p>
                 <a href="" class="productLink">ADD TO CART</a>
             `

@@ -38,7 +38,9 @@ p.headText{
     font-size: 18px;
     font-weight: bold;
 }
-
+.products__productName{
+    text-transform: uppercase;
+}
 
 
 /*---------------------------------MIDTEN---------------------------------*/
