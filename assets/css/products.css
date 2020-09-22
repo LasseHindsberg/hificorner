@@ -10,7 +10,7 @@
 /*---------------------------------VENSTRE SIDE---------------------------------*/
 
 .options{
-    flex: 1;
+    flex: 2;
 }
 .amplifiers a, .shopby a{
     display: block;
@@ -30,12 +30,18 @@
 }
 .shopby p{
     padding: 10px 0;
+    cursor: pointer;
 }
 p.headText{
     padding: 25px 0px 0;
     color: rgb(179, 162, 125);
     font-size: 18px;
     font-weight: bold;
+}
+.shopby p{
+    color: rgb(179, 162, 125);
+    font-size: 0.8em;
+    padding: 0.3em;
 }
 .products__productName{
     text-transform: uppercase;
@@ -49,12 +55,14 @@ p.headText{
     padding: 4px 0;
     padding-left: 5%;
 }
-
-
+.black{
+    color: #000 !important;
+    font-family: "Museo Sans Rounded 700";
+}
 /*---------------------------------MIDTEN---------------------------------*/
 
 .categories{
-    flex: 5;
+    flex: 7;
     padding: 0px 20px;
 }
 .headCategory{
@@ -134,7 +142,7 @@ p.price{
 /*---------------------------------HØJRE SIDE---------------------------------*/
 
 .manufacturer{
-    flex: 1;
+    flex: 2;
 }
 p.diffText{
     color: rgb(179, 162, 125);
