@@ -2548,12 +2548,12 @@
         {
             "name": "Meridian G55 5 Channel Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,250.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "70",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Meridian",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2584,12 +2584,12 @@
         {
             "name": "Meridian G57 2 Channel Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,250.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "71",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Meridian",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2620,12 +2620,12 @@
         {
             "name": "ATC P2 Dual-Mono Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,375.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "72",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "ATC",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2656,8 +2656,8 @@
         {
             "name": "Primaluna dialogue Premium HP Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,398.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "73",
             "category": "integrated amplifiers",
@@ -2679,7 +2679,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Primaluna",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2692,12 +2692,12 @@
         {
             "name": "Primaluna Dialogue Premium HP Poweramplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,498.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "74",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Primaluna",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2728,8 +2728,8 @@
         {
             "name": "Denon AVC-8500H AV Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,499.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "75",
             "category": "integrated amplifiers",
@@ -2751,7 +2751,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Denon",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2764,8 +2764,8 @@
         {
             "name": "Quad II-Classic Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,499.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "76",
             "category": "integrated amplifiers",
@@ -2787,7 +2787,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Quad",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2800,8 +2800,8 @@
         {
             "name": "Marantz PM-KI Ruby Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,500.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "77",
             "category": "integrated amplifiers",
@@ -2836,12 +2836,12 @@
         {
             "name": "Sugden MasterClass LA-4 Pre Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,590.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "78",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Sugden",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2872,8 +2872,8 @@
         {
             "name": "ATC SIA2-150 MKII Stereo Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,625.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "79",
             "category": "integrated amplifiers",
@@ -2895,7 +2895,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "ATC",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2908,12 +2908,12 @@
         {
             "name": "Linn Akurate Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,630.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "80",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Linn",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2944,12 +2944,12 @@
         {
             "name": "Naim NAC-N 272 Pre-Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,699.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "81",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Naim",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2980,12 +2980,12 @@
         {
             "name": "Naim Nap 250 DR Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3.899.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "82",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Naim",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3004,7 +3004,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Naim Nap",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3016,8 +3016,8 @@
         {
             "name": "Classé Sigma 2200I Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,900.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "83",
             "category": "integrated amplifiers",
@@ -3039,8 +3039,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Classé",
+                    "manufactorLinkName": "Classé",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3052,12 +3052,12 @@
         {
             "name": "Chord SPM 650 Stereo Power Amplifier 130W",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,950.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "84",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3076,7 +3076,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Chord",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3088,12 +3088,12 @@
         {
             "name": "Chord CPA 2500 Pre Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,950.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "85",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3112,7 +3112,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Chord",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3124,8 +3124,8 @@
         {
             "name": "Sugden Masterclass ANV-50 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,995.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "86",
             "category": "integrated amplifiers",
@@ -3147,8 +3147,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Sugden",
+                    "manufactorLinkName": "Sugden",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3160,12 +3160,12 @@
         {
             "name": "Arcam FMJ P349 3 Channel Power Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,995.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "87",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Arcam",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3184,7 +3184,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Arcam",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3219,7 +3219,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Yamaha",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3232,12 +3232,12 @@
         {
             "name": "Chord Prima Stereo Pre Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "price": "£3,999.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "89",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3256,7 +3256,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Chord PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3267,9 +3267,9 @@
         },
         {
             "name": "Primare I35 Prisma Integrated Amplifier",
-            "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "image": "./assets/img/screenshots/picture3.png",
+            "price": "£4,000.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "90",
             "category": "integrated amplifiers",
@@ -3291,7 +3291,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "primare",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3303,9 +3303,9 @@
         },
         {
             "name": "Devialet Expert Pro 140 Amplifier",
-            "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "image": "./assets/img/screenshots/picture2.png",
+            "price": "£4,490.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "91",
             "category": "integrated amplifiers",
@@ -3327,7 +3327,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Devialet",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3339,13 +3339,13 @@
         },
         {
             "name": "Sugden Sapphire DAP-800 Digital Analogue Pre-Amplifier",
-            "image": "./assets/img/screenshots/picture6.png",
-            "price": "£329.00",
-            "oldPrice": "£429.00",
+            "image": "./assets/img/screenshots/picture1.png",
+            "price": "£4,635.00",
+            "oldPrice": "",
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "92",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
+            "manufactor": "Sugdem",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3364,7 +3364,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactorLinkName": "Sugden PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
