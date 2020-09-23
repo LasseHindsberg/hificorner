@@ -182,6 +182,9 @@ p.diffText{
     p.view{
         margin-top: 0.5em;
     }
+    .manufacturer{
+        display: none;
+    }
 }
 @media only screen and (max-width: 650px){
     .headCategory{
