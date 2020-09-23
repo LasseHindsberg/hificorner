@@ -6,9 +6,10 @@ function showProducts(){
     .then(function(products){
         let allProducts = document.querySelector(".products");
         let items = document.querySelector(".itemsNumber");
-
+        let itemCount = 0;
         products.forEach(function(product) {
-            items.innerText = products.length; //Show how many items on the page
+            itemCount++;
+            items.innerText = itemCount; //Show how many items on the page
             const productContainer = document.createElement('div');
             productContainer.classList.add('product');
             

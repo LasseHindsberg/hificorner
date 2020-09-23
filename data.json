@@ -278,8 +278,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Arcan",
-                    "manufactorLinkName": "Arcan HDA",
+                    "manufactor": "Arcam",
+                    "manufactorLinkName": "Arcam HDA",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -459,6 +459,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Rotel",
                     "manufactorLinkName": "Rotel rc",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -603,6 +604,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Quad",
                     "manufactorLinkName": "Quad QC",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -649,7 +651,7 @@
             ]
         },
         {
-            "name": "Arcan HDA SA20 Integrated Amplifier",
+            "name": "Arcam HDA SA20 Integrated Amplifier",
             "image": "./assets/img/screenshots/picture5.png",
             "price": 999.00,
             "oldPrice": "",
@@ -674,8 +676,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Arcan",
-                    "manufactorLinkName": "Arcan HDA",
+                    "manufactor": "Arcam",
+                    "manufactorLinkName": "Arcam HDA",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -711,6 +713,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Quad",
                     "manufactorLinkName": "Quad II-Classic",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -747,6 +750,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Audiolab",
                     "manufactorLinkName": "Audiolab 8300MB",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -783,6 +787,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Meridian",
                     "manufactorLinkName": "Meridian Audio Core",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -819,6 +824,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Naim",
                     "manufactorLinkName": "Naim Nait 5SI",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -927,6 +933,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Quad",
                     "manufactorLinkName": "Quad Artera+",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -963,6 +970,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Graham",
                     "manufactorLinkName": "Graham Slee",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1035,6 +1043,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Audiolab",
                     "manufactorLinkName": "Audiolab 8300XP",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1071,6 +1080,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Rotel",
                     "manufactorLinkName": "Rotel RA-1570",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1088,7 +1098,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "31",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1107,6 +1116,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1124,7 +1134,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "32",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1143,6 +1152,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1196,7 +1206,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "34",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1215,6 +1224,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1232,7 +1242,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "35",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1251,6 +1260,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1304,7 +1314,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "37",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1323,6 +1332,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1340,7 +1350,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "38",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1359,6 +1368,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1367,7 +1377,8 @@
                     "cardSurcharges": "No"
                 }
             ]
-        },{
+        },
+        {
             "name": "Primare I15 Prisma Integrated Amplifier",
             "image": "./assets/img/screenshots/picture6.png",
             "price": 329.00,
@@ -1411,7 +1422,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "40",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1430,6 +1440,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1447,7 +1458,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "41",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1466,6 +1476,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1519,7 +1530,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "43",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1538,6 +1548,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1555,7 +1566,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "44",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1574,6 +1584,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1591,7 +1602,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "45",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1610,6 +1620,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1663,7 +1674,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "47",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1682,6 +1692,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1699,7 +1710,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "48",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1718,6 +1728,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1807,7 +1818,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "51",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1826,6 +1836,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1879,7 +1890,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "53",
             "category": "pre amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1898,6 +1908,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1951,7 +1962,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "55",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -1970,6 +1980,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -1987,7 +1998,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "56",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2006,6 +2016,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2077,7 +2088,7 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
+                    "manufactor": "Eat",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2131,7 +2142,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "60",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2150,6 +2160,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Eat",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2167,7 +2178,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "61",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2186,6 +2196,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2275,7 +2286,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "64",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2294,6 +2304,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2311,7 +2322,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "65",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2330,6 +2340,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2347,7 +2358,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "66",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2366,7 +2376,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Classé",
+                    "manufactorLinkName": "Classé AMP2",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -2383,7 +2394,6 @@
             "description": "The PM6006 is an upgraded successor of the multi award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "67",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2402,6 +2412,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2491,7 +2502,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "70",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2510,6 +2520,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2527,7 +2538,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "71",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2546,6 +2556,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2563,7 +2574,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "72",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2582,6 +2592,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2635,7 +2646,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "74",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2654,6 +2664,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2779,7 +2790,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "78",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2798,6 +2808,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2851,7 +2862,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "80",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2870,6 +2880,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2887,7 +2898,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "81",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2906,6 +2916,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2923,7 +2934,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "82",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -2942,6 +2952,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -2977,8 +2988,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Marantz",
-                    "manufactorLinkName": "Marantz PM6006",
+                    "manufactor": "Classé",
+                    "manufactorLinkName": "Classé 2200I",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -2995,7 +3006,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "84",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3014,6 +3024,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3031,7 +3042,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "85",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3050,6 +3060,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3103,7 +3114,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "87",
             "category": "power amplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3122,6 +3132,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3175,7 +3186,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "89",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3194,6 +3204,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3283,7 +3294,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "92",
             "category": "preamplifiers",
-            "manufactor": "Marantz",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3302,6 +3312,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Marantz",
                     "manufactorLinkName": "Marantz PM6006",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3319,7 +3330,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "93",
             "category": "preamplifiers",
-            "manufactor": "Arcam",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3338,6 +3348,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Arcam",
                     "manufactorLinkName": "Arcam FMJ P349",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3355,7 +3366,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "94",
             "category": "pre amplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3374,6 +3384,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord Prima Stereo",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3391,7 +3402,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "95",
             "category": "preamplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3410,6 +3420,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord Prima Stereo",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3499,7 +3510,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "98",
             "category": "preamplifiers",
-            "manufactor": "Sugden",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3518,6 +3528,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Sugden",
                     "manufactorLinkName": "Sugden Sapphire Dap-800",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3535,7 +3546,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "99",
             "category": "preamplifiers",
-            "manufactor": "Naim",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3554,6 +3564,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Naim",
                     "manufactorLinkName": "Naim Nac 282",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3571,7 +3582,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "100",
             "category": "power amplifiers",
-            "manufactor": "Sugden",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3590,6 +3600,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Sugden",
                     "manufactorLinkName": "Sugden Masterclass SPA-4",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3679,7 +3690,7 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "103",
             "category": "power amplifiers",
-            "manufactor": "Chord",
+
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3698,6 +3709,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord SPM MKII 1050",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3715,7 +3727,7 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "104",
             "category": "power amplifiers",
-            "manufactor": "Astell",
+
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3734,6 +3746,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Astell",
                     "manufactorLinkName": "Astell And Kern AK500AP",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3751,7 +3764,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "105",
             "category": "preamplifiers",
-            "manufactor": "Naim",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3770,6 +3782,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Naim",
                     "manufactorLinkName": "Naim Nac 252",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3787,7 +3800,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "106",
             "category": "power amplifiers",
-            "manufactor": "Sugden",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3806,6 +3818,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Sugden",
                     "manufactorLinkName": "Sugden Saphire FBA-800",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3823,7 +3836,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "107",
             "category": "preamplifiers",
-            "manufactor": "ATC",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3842,6 +3854,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "ATC",
                     "manufactorLinkName": "ATC Sca2 Stereo",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3859,7 +3872,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "108",
             "category": "preamplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3878,6 +3890,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord CPA 3000",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -3931,7 +3944,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "110",
             "category": "power amplifiers",
-            "manufactor": "Meridian",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -3950,6 +3962,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Meridian",
                     "manufactorLinkName": "Meridian 857",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4039,7 +4052,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "113",
             "category": "power amplifiers",
-            "manufactor": "Linn",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4058,6 +4070,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Linn",
                     "manufactorLinkName": "Linn Klimax",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4075,7 +4088,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "114",
             "category": "power amplifiers",
-            "manufactor": "ATC",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4094,6 +4106,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "ATC",
                     "manufactorLinkName": "ATC P4",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4111,7 +4124,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "115",
             "category": "power amplifiers",
-            "manufactor": "Naim",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4130,6 +4142,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Naim",
                     "manufactorLinkName": "Naim Nap",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4147,7 +4160,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "116",
             "category": "preamplifiers",
-            "manufactor": "Meridian",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4166,6 +4178,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Meridian",
                     "manufactorLinkName": "Meridian 818V3",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4183,7 +4196,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "117",
             "category": "preamplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4202,6 +4214,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord Dave",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4219,7 +4232,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "118",
             "category": "preamplifiers",
-            "manufactor": "Trinnov",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4238,6 +4250,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Trinnov",
                     "manufactorLinkName": "Trinnov Amethyst",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4255,7 +4268,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "119",
             "category": "power amplifiers",
-            "manufactor": "Linn",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4274,6 +4286,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Linn",
                     "manufactorLinkName": "Linn Klimax",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4327,7 +4340,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "121",
             "category": "power amplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4346,6 +4358,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord 1200",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4399,7 +4412,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "123",
             "category": "power amplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4418,6 +4430,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord SPM",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4435,7 +4448,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "124",
             "category": "power amplifiers",
-            "manufactor": "Sugden",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4454,6 +4466,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Sugden",
                     "manufactorLinkName": "Sugden Masterclass",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4471,7 +4484,6 @@
             "description": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively feature discrete components - not a single IC in sight of the signal path. The PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail.",
             "id": "125",
             "category": "preamplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4490,6 +4502,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord CPA",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4651,7 +4664,6 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsam quis odio accusamus in eaque totam quas. Cum placeat suscipit libero, eligendi doloribus atque quod?",
             "id": "130",
             "category": "preamplifiers",
-            "manufactor": "Chord",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4670,6 +4682,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Chord",
                     "manufactorLinkName": "Chord Cpa",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4687,7 +4700,6 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsam quis odio accusamus in eaque totam quas. Cum placeat suscipit libero, eligendi doloribus atque quod?",
             "id": "131",
             "category": "power amplifiers",
-            "manufactor": "AVID",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4706,6 +4718,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Avid",
                     "manufactorLinkName": "AVID AMPLIFIER",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4723,7 +4736,6 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsam quis odio accusamus in eaque totam quas. Cum placeat suscipit libero, eligendi doloribus atque quod?",
             "id": "132",
             "category": "preamplifiers",
-            "manufactor": "Avid",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4742,6 +4754,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Avid",
                     "manufactorLinkName": "Avid Reference",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
@@ -4759,7 +4772,6 @@
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, ipsam quis odio accusamus in eaque totam quas. Cum placeat suscipit libero, eligendi doloribus atque quod?",
             "id": "133",
             "category": "power amplifiers",
-            "manufactor": "AVID",
             "info":[
                 {
                     "PowerOutput": "45 W / 60 W",
@@ -4778,6 +4790,7 @@
             ],
             "addInfo":[
                 {
+                    "manufactor": "Avid",
                     "manufactorLinkName": "AVID MONO",
                     "manufactorLink": "https://www.avid.com/#Audi",
                     "warranty": "3 years",

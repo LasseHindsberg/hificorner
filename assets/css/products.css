@@ -8,9 +8,11 @@
 }
 
 /*---------------------------------VENSTRE SIDE---------------------------------*/
-
+html {
+    scroll-behavior: smooth;
+}
 .options{
-    flex: 2;
+    flex: 3;
 }
 .amplifiers a, .shopby a{
     display: block;
@@ -28,21 +30,25 @@
     padding: 20px;
     background-color: rgb(228, 228, 228);
 }
-.shopby p{
-    padding: 10px 0;
-    cursor: pointer;
-}
-p.headText{
-    padding: 25px 0px 0;
+.headText{
+    padding-bottom: 1em;
     color: rgb(179, 162, 125);
     font-size: 18px;
     font-weight: bold;
     cursor: default;
 }
-.shopby p{
+.shopby a{
     color: rgb(179, 162, 125);
     font-size: 0.8em;
     padding: 0.3em;
+    cursor: pointer;
+}
+.shopby p{
+    color: #000 !important;
+    font-family: "Museo Sans Rounded 700";
+    cursor: default;
+    margin: 1em 0;
+    font-size: 0.9em;
 }
 .products__productName{
     text-transform: uppercase;
@@ -56,15 +62,10 @@ p.headText{
     padding: 4px 0;
     padding-left: 5%;
 }
-.black{
-    color: #000 !important;
-    font-family: "Museo Sans Rounded 700";
-    cursor: default;
-}
 /*---------------------------------MIDTEN---------------------------------*/
 
 .categories{
-    flex: 7;
+    flex: 9;
     padding: 0px 20px;
 }
 .headCategory{
@@ -144,7 +145,7 @@ p.price{
 /*---------------------------------HØJRE SIDE---------------------------------*/
 
 .manufacturer{
-    flex: 2;
+    flex: 3;
 }
 p.diffText{
     color: rgb(179, 162, 125);
