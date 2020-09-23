@@ -158,7 +158,7 @@ function sortProducts() {
                         productContainer.innerHTML = `
                         <img src="${product.image}" alt="${product.alt}">
                         <p class="products__productName">${product.name}</p>
-                        <p class="price"><span class="oldPrice">${product.oldPrice}</span>${product.price}</p>
+                        <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
                         <a href="" class="productLink">ADD TO CART</a>`
                         productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
                         allProducts.appendChild(productContainer);
@@ -503,7 +503,7 @@ function manuFilter(){
                     productContainer.innerHTML = `
                     <img src="${product.image}" alt="${product.alt}">
                     <p class="products__productName">${product.name}</p>
-                    <p class="price"><span class="oldPrice">${product.oldPrice}</span>${product.price}</p>
+                    <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
                     <a href="" class="productLink">ADD TO CART</a>`
                     productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
                     allProducts.appendChild(productContainer);
