@@ -37,6 +37,7 @@ p.headText{
     color: rgb(179, 162, 125);
     font-size: 18px;
     font-weight: bold;
+    cursor: default;
 }
 .shopby p{
     color: rgb(179, 162, 125);
@@ -58,6 +59,7 @@ p.headText{
 .black{
     color: #000 !important;
     font-family: "Museo Sans Rounded 700";
+    cursor: default;
 }
 /*---------------------------------MIDTEN---------------------------------*/
 
