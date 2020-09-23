@@ -70,7 +70,7 @@
                 <a href="#products" class="atc">ATC (<span class="atcAmount">0</span>)</a>
                 <a href="#products" class="audiolab">Audiolab (<span class="audiolabAmount">0</span>)</a>
                 <a href="#products" class="avid">AVID (<span class="avidAmount">0</span>)</a>
-                <a href="#products" class="chrod">Chrod Electronics (<span class="chrodAmount">0</span>)</a>
+                <a href="#products" class="chord">Chord Electronics (<span class="chrodAmount">0</span>)</a>
                 <a href="#products" class="classe">Classé (<span class="classeAmount">0</span>)</a>
                 <a href="#products" class="denon">Denon (<span class="denonAmount">0</span>)</a>
                 <a href="#products" class="devialet">Devialet (<span class="devialetAmount">0</span>)</a>
@@ -94,28 +94,29 @@
 
         <article class="categories">
             <p class="headerText">AMPLIFIERS</p>
-            <div class="headCategory">
+            <div class="headCategory" id="products">
                 <div class="left">
-                    <div>
+                    <form>
                         <label for="sorting">SORT BY:</label>
                         <select id="sorting" value="Price" name="sortlist" form="sortform">
-                            <option value="price">Price</option>
+                            <option value="lowprice">Price - Lowest to Highest</option>
+                            <option value="highprice">Price - Highest to Lowest</option>
                         </select>
-                    </div>
+                    </form>
                     <p class="view">VIEW AS: <img src="./assets/img/screenshots/flag.png" alt="flag"></p>
                 </div>
                 <div class="right">
                     <p class="items"><span class="itemsNumber">0</span> Item(s)</p>
-                    <div>
+                    <form>
                         <label for="show">SHOW:</label>
                         <select id="number" name="numberlist" form="numberform">
                             <option value="number">300</option>
-                            <option value="number">100</option>
+                            <option value="number">200</option>
                         </select>
-                    </div>
+                    </form>
                 </div>
             </div>
-            <div class="products" id="products">
+            <div class="products">
 
             </div>
         </article>

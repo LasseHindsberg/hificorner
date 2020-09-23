@@ -197,7 +197,7 @@ let astell = document.querySelector(".astell");
 let atc = document.querySelector(".atc");
 let audiolab = document.querySelector(".audiolab");
 let avid = document.querySelector(".avid");
-let chrod = document.querySelector(".chrod");
+let chord = document.querySelector(".chord");
 let classe = document.querySelector(".classe");
 let denon = document.querySelector(".denon");
 let devialet = document.querySelector(".devialet");
@@ -300,8 +300,8 @@ function manuFilter(){
             }
             if(manufactor == "Audiolab"){
                 count3++;
-                arcamAmount.innerText = count3;
-                arcam.addEventListener('click', function(){
+                audiolabAmount.innerText = count3;
+                audiolab.addEventListener('click', function(){
                     removeProducts();
                     let manu = "Audiolab"
                     addManufactor(manu);
@@ -316,12 +316,12 @@ function manuFilter(){
                     addManufactor(manu);
                 });
             }
-            if(manufactor == "Chrod"){
+            if(manufactor == "Chord"){
                 count5++;
                 chrodAmount.innerText = count5;
-                chrod.addEventListener('click', function(){
+                chord.addEventListener('click', function(){
                     removeProducts();
-                    let manu = "Chrod"
+                    let manu = "Chord"
                     addManufactor(manu);
                 });
             }
@@ -472,7 +472,7 @@ function manuFilter(){
             if(manufactor == "Trinnov"){
                 count22++;
                 trinnovAmount.innerText = count22;
-                sugden.addEventListener('click', function(){
+                trinnov.addEventListener('click', function(){
                     removeProducts();
                     let manu = "Trinnov"
                     addManufactor(manu);
@@ -516,7 +516,3 @@ function manuFilter(){
 }
 
 manuFilter();
-
-
-
-

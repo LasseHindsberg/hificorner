@@ -80,6 +80,10 @@ select#number{
 }
 select#sorting{
     margin: 0 1em;
+    width: 55px;
+}
+#sorting option{
+    padding: 0.3em 0;
 }
 .items{
     font-size: 16px;
@@ -172,7 +176,7 @@ p.diffText{
     .items{
         margin-right: 0;
     }
-    .right div{
+    .right form{
         margin-top: 0.5em;
     }
     p.view{
