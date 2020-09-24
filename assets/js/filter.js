@@ -1,18 +1,18 @@
 // PRICE FILTERING    PRICE FILTERING    PRICE FILTERING //
 // PRICE FILTERING    PRICE FILTERING    PRICE FILTERING //
-let a799 = document.querySelector(".a0-799");
-let a800 = document.querySelector(".a800-999");
-let a1000 = document.querySelector(".a1000-1499");
-let a1500 = document.querySelector(".a1500-1999");
-let a2000 = document.querySelector(".a2000-2999");
-let a3000 = document.querySelector(".a3000-3499");
-let a3500 = document.querySelector(".a3500-4999");
-let a5000 = document.querySelector(".a5000-7999");
-let a8000 = document.querySelector(".a8000-11999");
-let a12000 = document.querySelector(".a12000");
+// let a799 = document.querySelector(".a0-799");
+// let a800 = document.querySelector(".a800-999");
+// let a1000 = document.querySelector(".a1000-1499");
+// let a1500 = document.querySelector(".a1500-1999");
+// let a2000 = document.querySelector(".a2000-2999");
+// let a3000 = document.querySelector(".a3000-3499");
+// let a3500 = document.querySelector(".a3500-4999");
+// let a5000 = document.querySelector(".a5000-7999");
+// let a8000 = document.querySelector(".a8000-11999");
+// let a12000 = document.querySelector(".a12000");
 
 
-function sortProducts() {
+/* function sortProducts() {
     getProducts()
         .then(function (products) {
             let count = 0;
@@ -158,8 +158,7 @@ function sortProducts() {
                         productContainer.innerHTML = `
                         <img src="${product.image}" alt="${product.alt}">
                         <p class="products__productName">${product.name}</p>
-                        <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
-                        <a href="" class="productLink">ADD TO CART</a>`
+                        <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£<span class="productPrice">${product.price.toLocaleString('en-US')}</span></p>                        <a href="" class="productLink">ADD TO CART</a>`
                         productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
                         allProducts.appendChild(productContainer);
                         itemCount++;
@@ -169,11 +168,51 @@ function sortProducts() {
             }
         })
 }
-sortProducts();
+sortProducts(); */
+
+
+
+
+var url = new URLSearchParams(window.location.search);
+var minprice = url.get("minprice");
+var maxprice = url.get("maxprice");
+
+if(minprice || maxprice){
+    getProducts()
+    .then(function(products){
+        let result = products.filter(function (product){
+            return (product.price >= minprice && product.price <= maxprice)
+        });
+        let count = 0;
+        let itemsNumber = document.querySelector(".itemsNumber");
+        let allProducts = document.querySelector(".products");
+        document.querySelectorAll(".product").forEach(n => n.remove());
+        result.forEach(function (product) {
+            count++;
+            console.log(product);
+            const productContainer = document.createElement('div');
+            productContainer.classList.add('product');
+            productContainer.innerHTML = `
+            <img src="${product.image}" alt="${product.alt}">
+            <p class="products__productName">${product.name}</p>
+            <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
+            <a href="" class="productLink">ADD TO CART</a>`
+            productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
+            allProducts.appendChild(productContainer);
+            itemsNumber.innerHTML = count;
+        });
+    })
+}
+
+
+
+
+
 
 
 
 // MANU AND PRICE FILTERING  MANU AND PRICE FILTERING  MANU AND PRICE FILTERING //
+/*
 function removeProducts(){  
     document.querySelectorAll(".product").forEach(n => n.remove());
 }
@@ -488,7 +527,7 @@ function manuFilter(){
                 });
             }
 
-
+            
 
         })
         function addManufactor(manu){
@@ -503,8 +542,7 @@ function manuFilter(){
                     productContainer.innerHTML = `
                     <img src="${product.image}" alt="${product.alt}">
                     <p class="products__productName">${product.name}</p>
-                    <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
-                    <a href="" class="productLink">ADD TO CART</a>`
+                    <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£<span class="productPrice">${product.price.toLocaleString('en-US')}</span></p>                    <a href="" class="productLink">ADD TO CART</a>`
                     productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
                     allProducts.appendChild(productContainer);
                     itemCount++;
@@ -514,5 +552,65 @@ function manuFilter(){
         }
     });
 }
-
 manuFilter();
+
+let integrated = document.querySelector(".integrated");
+let power = document.querySelector(".power");
+let preamp = document.querySelector(".preamp");
+
+function categoryFilter() {
+    getProducts()
+    .then(function (products) {
+        products.forEach(function (product){
+            let category = product.category;
+            if(category == "integrated amplifiers"){
+                integrated.addEventListener('click', function(){
+                    removeProducts();
+                    let cate = "integrated amplifiers"
+                    addCategory(cate);
+                });
+            }
+            if(category == "power amplifiers"){
+                power.addEventListener('click', function(){
+                    removeProducts();
+                    let cate = "power amplifiers"
+                    addCategory(cate);
+                });
+            }
+            if(category == "preamplifiers"){
+                preamp.addEventListener('click', function(){
+                    removeProducts();
+                    let cate = "preamplifiers"
+                    addCategory(cate);
+                });
+            }
+        })
+        function addCategory(cate){
+            let allProducts = document.querySelector(".products");
+            let items = document.querySelector(".itemsNumber");
+            let itemCount = 0;
+            products.forEach(function (product) {
+                let category = product.category;
+                if(category == cate){
+                    const productContainer = document.createElement('div');
+                    productContainer.classList.add('product');
+                    productContainer.innerHTML = `
+                    <img src="${product.image}" alt="${product.alt}">
+                    <p class="products__productName">${product.name}</p>
+                    <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£<span class="productPrice">${product.price.toLocaleString('en-US')}</span></p>                    <a href="" class="productLink">ADD TO CART</a>`
+                    productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
+                    allProducts.appendChild(productContainer);
+                    itemCount++;
+                    items.innerText = itemCount;
+                }
+            });
+        }
+    });
+}
+categoryFilter()
+
+
+
+
+
+*/
