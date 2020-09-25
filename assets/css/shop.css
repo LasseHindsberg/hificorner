@@ -151,57 +151,57 @@
 }
 
 @media screen and (max-width: 825px) {
-.shop__container {
-    max-width: 80%;
-    margin: 0 auto;
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
-    grid-template-areas:
-    "brands"
-    "amps"
-    "speakers" 
-    "turntable"
-    "cd"
-    "streamers"
-    "cable"
-    "furniture"
-    "headphones"
-    "homecinema"
-    "outlet"
-    "ebay"
-    "ceiling"
-    "tv"
-    "vinyl"
-    "shop";
-}
+    .shop__container {
+        max-width: 80%;
+        margin: 0 auto;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+            "brands"
+            "amps"
+            "speakers"
+            "turntable"
+            "cd"
+            "streamers"
+            "cable"
+            "furniture"
+            "headphones"
+            "homecinema"
+            "outlet"
+            "ebay"
+            "ceiling"
+            "tv"
+            "vinyl"
+            "shop";
+    }
 
-.shop__brand,
-.shop__amps,
-.shop__speakers,
-.shop__turntable,
-.shop__cd,
-.shop__streamers,
-.shop__streamers,
-.shop__cable,
-.shop__furniture,
-.shop__headphones,
-.shop__homecinema,
-.shop__outlet,
-.shop__ebay,
-.shop__ceiling,
-.shop__tv,
-.shop__vinyl,
-.shop__button {
-    display: flex;
-    flex-direction: column;
-    justify-items: center;
-    align-items: center;
+    .shop__brand,
+    .shop__amps,
+    .shop__speakers,
+    .shop__turntable,
+    .shop__cd,
+    .shop__streamers,
+    .shop__streamers,
+    .shop__cable,
+    .shop__furniture,
+    .shop__headphones,
+    .shop__homecinema,
+    .shop__outlet,
+    .shop__ebay,
+    .shop__ceiling,
+    .shop__tv,
+    .shop__vinyl,
+    .shop__button {
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
 
 
-    min-width: 100%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+        min-width: 100%;
+        height: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 }
