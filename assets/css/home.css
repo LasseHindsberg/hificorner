@@ -71,7 +71,7 @@ img{
 }
 .social__section{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(300px, 330px));
 }
 .social__twitter a, .social__facebook a, .social__blogger a{
     display: grid;
@@ -92,7 +92,8 @@ img{
 }
 
 .bottomLinks {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 330px));
     margin: 0 auto;
     text-transform: uppercase;
     font-family: 'Museo Sans Rounded 300';
@@ -122,3 +123,8 @@ img{
     margin-bottom: 15px;
 }
 
+@media screen and (max-width: 426px) {
+    .section__Image__2 p{
+        font-size: 1.5em;
+    }
+}
