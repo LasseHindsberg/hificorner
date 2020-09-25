@@ -1,4 +1,4 @@
-.categoryList{
+.categoryList {
     display: flex;
     max-width: 1920px;
     margin: 2em auto 5em;
@@ -11,81 +11,98 @@
 html {
     scroll-behavior: smooth;
 }
-.options{
+
+.options {
     flex: 3;
 }
-.amplifiers a, .shopby a{
+
+.amplifiers a,
+.shopby a {
     display: block;
     color: rgb(179, 162, 125);
     text-decoration: none;
     padding: 3px 0;
     font-size: 14px;
 }
-.amplifiers{
+
+.amplifiers {
     padding: 20px;
     background-color: rgb(228, 228, 228);
     margin-bottom: 20px;
 }
-.shopby{
+
+.shopby {
     padding: 20px;
     background-color: rgb(228, 228, 228);
 }
-.headText{
+
+.headText {
     padding-bottom: 1em;
     color: rgb(179, 162, 125);
     font-size: 18px;
     font-weight: bold;
     cursor: default;
 }
-.shopby a{
+
+.shopby a {
     color: rgb(179, 162, 125);
     font-size: 0.8em;
     padding: 0.3em;
     cursor: pointer;
 }
-.shopby p{
+
+.shopby p {
     color: #000 !important;
     font-family: "Museo Sans Rounded 700";
     cursor: default;
     margin: 1em 0;
     font-size: 0.9em;
 }
-.products__productName{
+
+.products__productName {
     text-transform: uppercase;
 }
-.amphead{
+
+.amphead {
     font-size: 0.85em;
     color: rgb(117, 104, 76);
 }
-.amphead > p{
+
+.amphead>a {
     color: rgb(179, 162, 125);
     padding: 4px 0;
     padding-left: 5%;
 }
+
 /*---------------------------------MIDTEN---------------------------------*/
 
-.categories{
+.categories {
     flex: 9;
     padding: 0px 20px;
 }
-.headCategory{
+
+.headCategory {
     background-color: rgb(228, 228, 228);
     padding: 20px;
     display: flex;
     justify-content: space-between;
     font-size: 14px;
 }
-select#number{
+
+select#number {
     margin-left: 1em;
 }
-select#sorting{
+
+select#sorting {
     margin: 0 1em;
     width: 55px;
 }
-#sorting option{
+
+#sorting option {
     padding: 0.3em 0;
 }
-.items{
+
+.items {
     font-size: 16px;
     font-weight: bold;
     margin-right: 20px;
@@ -101,46 +118,55 @@ select#sorting{
     align-items: center;
     display: flex;
 }
-.left{
+
+.left {
     align-items: center;
     display: flex;
 }
-.headerText{
+
+.headerText {
     font-size: 20px;
     margin-bottom: 20px;
 }
-.products{
+
+.products {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     grid-gap: 40px 10px;
     text-align: center;
 }
-.product{
+
+.product {
     display: grid;
     grid-template-rows: auto;
 }
-.product p{
+
+.product p {
     width: 80%;
     margin: 0 auto;
     font-size: 14px;
 }
-p.price{
+
+p.price {
     font-size: 16px;
     padding: 20px 0 30px;
     color: rgb(179, 162, 125);
 }
-.oldPrice{
+
+.oldPrice {
     color: rgb(172, 172, 172);
     text-decoration: line-through;
     padding-right: 10px;
 }
-.product img{
+
+.product img {
     width: 100%;
     align-content: center;
     margin: 20px 0 10px;
     border: 1px solid rgba(0, 0, 0, 0.1);
 }
-.product a{
+
+.product a {
     padding: 8px 16px;
     background-color: rgb(179, 162, 125);
     text-decoration: none;
@@ -151,49 +177,61 @@ p.price{
 
 /*---------------------------------HØJRE SIDE---------------------------------*/
 
-.manufacturer{
+.manufacturer {
     flex: 3;
 }
-p.diffText{
+
+p.diffText {
     color: rgb(179, 162, 125);
 }
-.manufacturer p{
+
+.manufacturer p {
     font-size: 14px;
 }
-.normalText p{
+
+.normalText p {
     padding: 10px 5px;
 }
-.manufacturer a{
+
+.manufacturer a {
     text-decoration: none;
     color: rgb(179, 162, 125);
 }
-@media only screen and (max-width: 840px){
-    .left{
+
+@media only screen and (max-width: 840px) {
+    .left {
         flex-direction: column;
         align-items: flex-start;
     }
-    .right{
+
+    .right {
         flex-direction: column;
         align-items: flex-end;
     }
-    .items{
+
+    .items {
         margin-right: 0;
     }
-    .right form{
+
+    .right form {
         margin-top: 0.5em;
     }
-    p.view{
+
+    p.view {
         margin-top: 0.5em;
     }
-    .manufacturer{
+
+    .manufacturer {
         display: none;
     }
 }
-@media only screen and (max-width: 650px){
-    .headCategory{
+
+@media only screen and (max-width: 650px) {
+    .headCategory {
         flex-direction: column;
     }
-    .right{
+
+    .right {
         align-items: flex-start;
         margin-top: 1em;
     }

@@ -12,11 +12,19 @@
 <body class="body_product_view">
     <div class="wrapper">
         <header>
-            <nav>
+            <nav class="header__nav">
                 <ul class="nav__topUl">
-                    <li><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
-                    <li><a href="#"><i class="fas fa-phone-alt"></i></a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i></a></li>
+                    <li>
+                        <form action="search.html"> <input type="search" name="keyword" id="keyword"><button
+                                type="submit"></form><i class="fas fa-search"></i></button>
+                    </li>
+                    <li><a href="#" class="user-text"><i class="fas fa-user user"></i>Account</a></li>
+                    <li><a href="#" class="mobile-icon"><i class="fas fa-user user"></i></a></li>
+                    <li><a href="#" class="cart-text"><i class="fas fa-shopping-cart cart"></i>Cart</a></li>
+                    <li><a href="#" class="mobile-icon"><i class="fas fa-shopping-cart cart"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-phone-alt"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-envelope"></i></a></li>
                 </ul>
                 <ul class="nav__bottomUl">
                     <li><a href="index.html">HOME</a></li>
@@ -24,23 +32,29 @@
                     <li><a href="brands.html">BRANDS</a></li>
                     <li><a href="#">BLOG</a></li>
                     <li><a href="#">EVENTS</a></li>
-                    <li><a href="shop.html">SHOP</a></li>
+                    <li><a href="shop.html" class="current">SHOP</a></li>
                     <li><a href="#">CONTACT US</a></li>
                 </ul>
+                <div class="nav__burger">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
             </nav>
         </header>
 
         <main class="main_product_view">
 
             <div class="breadcrumb">
-                <a href="index.html">Home</a> / 
-                <a href="products.html">Amplifiers</a> / 
+                <a href="index.html">Home</a> /
+                <a href="products.html">Amplifiers</a> /
                 <p class="current_product">Marantz PM6006 UK Edition Integrated Amplifier</p>
             </div>
-            
+
 
             <article class="article_product_view">
-                <section class="product_view_img"><img class="productImg" src="https://via.placeholder.com/600x400" alt="placeholder">
+                <section class="product_view_img"><img class="productImg" src="https://via.placeholder.com/600x400"
+                        alt="placeholder">
 
                     <h2>MORE VIEWS</h2>
                     <div class="moreviews">
@@ -184,6 +198,7 @@
         </footer>
     </div>
     <script src="./assets/js/product.js"></script>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>

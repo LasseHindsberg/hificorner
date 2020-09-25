@@ -1,15 +1,18 @@
 @import './carousel.css';
 @import './nav.css';
 @import './footer.css';
-img{
+
+img {
     width: 100%;
     height: auto;
 }
-.hifi-logo{
+
+.hifi-logo {
     font-family: 'Museo Sans Rounded 500', sans-serif;
     color: #FFF;
 }
-.hifi-box{
+
+.hifi-box {
     height: 200px;
     width: 200px;
     padding: 0 0.7em 0.7em;
@@ -18,16 +21,19 @@ img{
     flex-direction: column;
     justify-content: flex-end;
 }
-.hifi-box__name{
+
+.hifi-box__name {
     display: block;
     font-size: 2.3em;
     line-height: 0.9em;
     letter-spacing: 0.1em;
 }
-.hifi-box__name:last-child{
+
+.hifi-box__name:last-child {
     letter-spacing: 0.34em;
 }
-.hifi-logo__name{
+
+.hifi-logo__name {
     padding: 0.5em 0;
     font-size: 1.16em;
     text-transform: uppercase;
@@ -35,26 +41,33 @@ img{
     letter-spacing: 2px;
 }
 
-.section__Image img, .section__Image__2 img, .section__Image__3 img{
+.section__Image img,
+.section__Image__2 img,
+.section__Image__3 img {
     object-fit: cover;
     display: block;
 }
-.section__Image img{
+
+.section__Image img {
     height: 600px;
     grid-area: 1/1/2/2;
 }
-.section__Image div{
+
+.section__Image div {
     grid-area: 1/1/2/2;
     justify-self: center;
     align-self: center;
 }
-.section__Image{
+
+.section__Image {
     display: grid;
 }
-.section__Image__2{
+
+.section__Image__2 {
     display: grid;
 }
-.section__Image__2 p{
+
+.section__Image__2 p {
     grid-area: 1/1/2/2;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -65,29 +78,43 @@ img{
     padding: 0 25%;
     color: #fff;
 }
-.section__Image__2 img{
+
+.section__Image__2 img {
     height: 400px;
     grid-area: 1/1/2/2;
 }
-.social__section{
+
+.social__section {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 330px));
 }
-.social__twitter a, .social__facebook a, .social__blogger a{
+
+.social__twitter a,
+.social__facebook a,
+.social__blogger a {
     display: grid;
     text-decoration: none;
 }
-.social__twitter img, .social__facebook img, .social__blogger img{
+
+.social__twitter img,
+.social__facebook img,
+.social__blogger img {
     grid-area: 1/1/2/2;
     display: block;
 }
-.social__twitter i, .social__facebook i, .social__blogger i{
+
+.social__twitter i,
+.social__facebook i,
+.social__blogger i {
     grid-area: 1/1/2/2;
     place-self: center;
     color: #fff;
     font-size: 200px;
 }
-.social__twitter a, .social__facebook a, .social__blogger a{
+
+.social__twitter a,
+.social__facebook a,
+.social__blogger a {
     grid-area: 1/1/2/2;
 }
 

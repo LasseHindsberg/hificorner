@@ -1,59 +1,64 @@
-
-
-.main_product_view{
+.main_product_view {
     max-width: 1280px;
     background-color: white;
     margin: 2em auto;
     padding: 0 2%;
 }
 
-.article_product_view{
+.article_product_view {
     display: flex;
 
 }
-.product_view_img{
+
+.product_view_img {
     flex: 1;
     margin-right: 5%;
 }
-.product_view_info{
+
+.product_view_info {
     flex: 1;
 }
-.breadcrumb a{
+
+.breadcrumb a {
     color: #A39161;
     text-decoration: none;
 }
-.breadcrumb{
+
+.breadcrumb {
     margin: 1em 0;
     font-family: 'Museo Sans Rounded 100', sans-serif;
 }
-.old_price{
+
+.old_price {
     text-decoration: line-through;
     color: gray;
 }
 
-.current_product{
+.current_product {
     display: inline-block;
 }
 
-.product_name{
+.product_name {
     text-transform: uppercase;
     color: #A39161;
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
-.see_other_products{
+
+.see_other_products {
     text-decoration: none;
     color: #A39161;
 }
-.description{
+
+.description {
     font-family: 'Museo Sans Rounded 300', sans-serif;
 
 }
 
-.required{
+.required {
     color: red;
 }
 
-.text_price{
+.text_price {
     color: #A39161;
     display: flex;
     justify-content: space-between;
@@ -61,11 +66,11 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.buttons{
+.buttons {
     margin-top: 2em;
 }
 
-.buttons button{
+.buttons button {
     background-color: #A39161;
     color: white;
     border: none;
@@ -74,7 +79,7 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.info_product_box{
+.info_product_box {
     display: flex;
     justify-content: space-between;
     padding-left: .5em;
@@ -82,7 +87,7 @@
     margin-right: 1em;
 }
 
-.add_to_cart_box{
+.add_to_cart_box {
     padding-top: 1em;
     border-top: 1px solid gray;
     border-top: none;
@@ -91,24 +96,24 @@
     padding-bottom: 2em;
 }
 
-.product_view_form{
+.product_view_form {
     border: 1px solid gray;
     margin-top: 1em;
     color: #A39161;
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.color_choise{
+.color_choise {
     padding: 1em;
     border-bottom: 1px solid gray;
 }
 
-.quantety{
+.quantety {
     max-width: 40px;
     height: 30px;
 }
 
-#add_to_cart{
+#add_to_cart {
     height: 30px;
     background-color: #A39161;
     color: white;
@@ -117,25 +122,26 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.or{
+.or {
     display: block;
     color: #A39161;
     margin-left: 7em;
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.moreviews img{
+.moreviews img {
     width: auto;
 }
 
 
 
-.paypal_logo{
+.paypal_logo {
     max-width: 120px;
     margin-left: 4.5em;
 }
 
-.black, .silver{
+.black,
+.silver {
     background-color: #E1E1E1;
     padding: .3em 1em;
     max-width: 200px;
@@ -143,12 +149,12 @@
     font-family: 'Museo Sans Rounded 300', sans-serif;
 }
 
-.black{
+.black {
     margin-bottom: .4em;
 
 }
 
-.additional_information{
+.additional_information {
     display: grid;
     grid-template-columns: auto 3fr;
     grid-row: auto;
@@ -156,21 +162,21 @@
 
 }
 
-.additional_information p{
+.additional_information p {
     padding: 1em 0.5em;
     border: 1px solid gray;
 }
 
-.additional_information>p:nth-child(odd){
+.additional_information>p:nth-child(odd) {
     background-color: #E1E1E1;
 }
 
-.additional_information p a{
+.additional_information p a {
     color: #A39161;
     text-decoration: none;
 }
 
-.additional_information_name{
+.additional_information_name {
     color: #A39161;
     padding-top: 1em;
     padding-bottom: .5em;
@@ -178,28 +184,28 @@
 
 }
 
-.product_description{
+.product_description {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     font-family: 'Museo Sans Rounded 300', sans-serif;
     max-width: 400px;
 }
 
-.product_description p{
+.product_description p {
     padding: .1em 0;
 }
 
-.product_description p:nth-child(even){
+.product_description p:nth-child(even) {
     text-align: right;
 }
 
-.product_description_name{
+.product_description_name {
     color: #A39161;
     margin-top: 10em;
     padding-bottom: .5em;
 }
 
-.call_us{
+.call_us {
     color: #A39161;
     text-align: center;
     background-color: #000;
@@ -207,7 +213,7 @@
     margin-top: 1em;
 }
 
-.call_us h2 i{
+.call_us h2 i {
     color: white;
     transform: rotate(90deg);
 }
