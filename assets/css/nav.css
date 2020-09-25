@@ -23,3 +23,15 @@ nav a{
 .current{
     color: #a39161;
 }
+.user{
+    font-size: 0.9em
+}
+.cart{
+    font-size: 0.9em;
+}
+.user-text{
+    font-size: 0.7em;
+}
+.cart-text{
+    font-size: 0.7em;
+}

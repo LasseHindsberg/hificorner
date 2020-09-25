@@ -11,7 +11,7 @@
 
 <body>
     <header>
-        <nav>
+        <nav class="header__nav">
             <ul class="nav__topUl">
                 <li> <form action="search.html"> <input type="search" name="keyword" id="keyword"><button type="submit"></form><i
                             class="fas fa-search"></i></button></li>
@@ -27,9 +27,14 @@
                 <li><a href="brands.html">BRANDS</a></li>
                 <li><a href="#">BLOG</a></li>
                 <li><a href="#">EVENTS</a></li>
-                <li><a href="shop.html">SHOP</a></li>
+                <li><a href="shop.html" class="current">SHOP</a></li>
                 <li><a href="#">CONTACT US</a></li>
             </ul>
+            <div class="nav__burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
         </nav>
     </header>
     <section class="categoryList">
@@ -67,7 +72,7 @@
                 <p class="a3500-4999">£3,500.00 - £4,999.99 (<span class="s3500-4999">0</span>)</p>
                 <p class="a5000-7999">£5,000.00 - £7,999.99 (<span class="s5000-7999">0</span>)</p>
                 <p class="a8000-11999">£8,000.00 - £11,999.99 (<span class="s8000-11999">0</span>)</p>
-                <p class="a12000">£12,000.00 and above (<span class="s12000">0</span>)</p>
+                <p class="a12000">£12,000-.00 and above (<span class="s12000">0</span>)</p>
                 <p class="black">MANUFACTURER</p>
                 <p>Arcam (5)</p>
                 <p>Astell and Kern (1)</p>
@@ -164,6 +169,7 @@
     <script src="./assets/js/script.js"></script>
     <script src="./assets/js/filter.js"></script>
     <script src="./assets/js/search.js"></script>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>

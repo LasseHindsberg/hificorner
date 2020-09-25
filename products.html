@@ -11,12 +11,12 @@
 
 <body>
     <header>
-        <nav>
+        <nav class="header__nav">
             <ul class="nav__topUl">
                 <li> <form action="search.html"> <input type="search" name="keyword" id="keyword"><button type="submit"></form><i
                     class="fas fa-search"></i></button></li>
-                <li><a href="#">Account<i class="fas fa-user"></i></a></li>
-                <li><a href="#">Cart<i class="fas fa-shopping-cart"></i></a></li>
+                <li><a href="#" class="user-text"><i class="fas fa-user user"></i>Account</a></li>
+                <li><a href="#" class="cart-text"><i class="fas fa-shopping-cart cart"></i>Cart</a></li>
                 <li><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
                 <li><a href="#"><i class="fas fa-phone-alt"></i></a></li>
                 <li><a href="#"><i class="fas fa-envelope"></i></a></li>
@@ -27,9 +27,14 @@
                 <li><a href="brands.html">BRANDS</a></li>
                 <li><a href="#">BLOG</a></li>
                 <li><a href="#">EVENTS</a></li>
-                <li><a href="shop.html">SHOP</a></li>
+                <li><a href="shop.html" class="current">SHOP</a></li>
                 <li><a href="#">CONTACT US</a></li>
             </ul>
+            <div class="nav__burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
         </nav>
     </header>
     <section class="categoryList">
@@ -165,6 +170,7 @@
     </footer>
     <script src="./assets/js/script.js"></script>
     <script src="./assets/js/filter.js"></script>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>

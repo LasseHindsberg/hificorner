@@ -12,7 +12,7 @@
 <body class="body_product_view">
     <div class="wrapper">
         <header>
-            <nav>
+            <nav class="header__nav">
                 <ul class="nav__topUl">
                     <li> <form action="search.html"> <input type="search" name="keyword" id="keyword"><button type="submit"></form><i
                         class="fas fa-search"></i></button></li>
@@ -28,9 +28,14 @@
                     <li><a href="brands.html">BRANDS</a></li>
                     <li><a href="#">BLOG</a></li>
                     <li><a href="#">EVENTS</a></li>
-                    <li><a href="shop.html">SHOP</a></li>
+                    <li><a href="shop.html" class="current">SHOP</a></li>
                     <li><a href="#">CONTACT US</a></li>
                 </ul>
+                <div class="nav__burger">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
             </nav>
         </header>
 
@@ -189,6 +194,7 @@
         </footer>
     </div>
     <script src="./assets/js/product.js"></script>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>
