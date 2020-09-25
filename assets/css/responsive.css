@@ -76,6 +76,10 @@
 }
 
 
+.mobile-icon {
+    visibility: hidden;
+    ;
+}
 
 /* Tablet Styling */
 @media screen and (max-width:1024px) {
@@ -84,6 +88,21 @@
     }
 
     /* NAV */
+
+    .mobile-icon {
+        visibility: visible;
+    }
+
+    .user-text,
+    .cart-text {
+        display: none;
+    }
+
+
+    .nav__topUl .UwU {
+        display: none;
+    }
+
     .nav__bottomUl {
         position: absolute;
         justify-content: space-around;
