@@ -3521,7 +3521,7 @@
             "addInfo":[
                 {
                     "manufactor": "Astell",
-                    "manufactorLinkName": "Sugden Sapphire Dap-800",
+                    "manufactorLinkName": "Astell AK500AP",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
@@ -3712,7 +3712,7 @@
             ]
         },
         {
-            "name": "MERIDIAN 857 REFERENCE POWER AMPLIFIER",
+            "name": "Meridian 857 Reference Power Amplifier",
             "image": "./assets/img/screenshots/picture4.png",
             "price": 5999.00,
             "oldPrice": "",
@@ -3738,8 +3738,8 @@
             ],
             "addInfo":[
                 {
-                    "manufactor": "Astell",
-                    "manufactorLinkName": "Astell And Kern AK500AP",
+                    "manufactor": "Meridian",
+                    "manufactorLinkName": "Meridian 857",
                     "manufactorLink": "https://www.marantz.com/da-dk",
                     "warranty": "3 years",
                     "delivery": "Free",
