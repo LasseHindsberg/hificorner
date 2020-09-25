@@ -195,7 +195,6 @@
 
 .product_description_name{
     color: #A39161;
-    margin-top: 10em;
     padding-bottom: .5em;
 }
 
@@ -210,4 +209,27 @@
 .call_us h2 i{
     color: white;
     transform: rotate(90deg);
+}
+
+
+@media only screen and (max-width: 600px){
+    .article_product_view{
+        display: flex;
+        flex-direction: column;
+    }
+    .product_view_img{
+        margin-right: 0;
+    }
+    .product_description{
+        max-width: 100%;
+    }
+    .productImg{
+        order: 3;
+    }
+    .moreviews{
+        display: none;
+    }
+    .product_description_name{
+        margin-top: 2em;
+    }
 }
