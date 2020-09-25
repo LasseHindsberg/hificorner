@@ -180,92 +180,92 @@ var maxprice = url.get("maxprice");
 var category = url.get("category");
 var manufactor = url.get("manufactor");
 
-if(minprice || maxprice){
+if (minprice || maxprice) {
     getProducts()
-    .then(function(products){
-        let result = products.filter(function (product){
-            return (product.price >= minprice && product.price <= maxprice)
-        });
-        let count = 0;
-        let itemsNumber = document.querySelector(".itemsNumber");
-        let allProducts = document.querySelector(".products");
-        document.querySelectorAll(".product").forEach(n => n.remove());
-        result.forEach(function (product) {
-            count++;
-            const productContainer = document.createElement('div');
-            productContainer.classList.add('product');
-            productContainer.innerHTML = `
+        .then(function (products) {
+            let result = products.filter(function (product) {
+                return (product.price >= minprice && product.price <= maxprice)
+            });
+            let count = 0;
+            let itemsNumber = document.querySelector(".itemsNumber");
+            let allProducts = document.querySelector(".products");
+            document.querySelectorAll(".product").forEach(n => n.remove());
+            result.forEach(function (product) {
+                count++;
+                const productContainer = document.createElement('div');
+                productContainer.classList.add('product');
+                productContainer.innerHTML = `
             <img src="${product.image}" alt="${product.alt}">
             <p class="products__productName">${product.name}</p>
             <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
             <a href="" class="productLink">ADD TO CART</a>`
-            productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
-            allProducts.appendChild(productContainer);
-            itemsNumber.innerHTML = count;
-        });
-    })
+                productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
+                allProducts.appendChild(productContainer);
+                itemsNumber.innerHTML = count;
+            });
+        })
 }
-if(category){
+if (category) {
     getProducts()
-    .then(function(products){
-        let result = products.filter(function (product){
-            return (category == product.category);
-        });
-        let count = 0;
-        let itemsNumber = document.querySelector(".itemsNumber");
-        let allProducts = document.querySelector(".products");
-        document.querySelectorAll(".product").forEach(n => n.remove());
-        result.forEach(function (product) {
-            count++;
-            const productContainer = document.createElement('div');
-            productContainer.classList.add('product');
-            productContainer.innerHTML = `
+        .then(function (products) {
+            let result = products.filter(function (product) {
+                return (category == product.category);
+            });
+            let count = 0;
+            let itemsNumber = document.querySelector(".itemsNumber");
+            let allProducts = document.querySelector(".products");
+            document.querySelectorAll(".product").forEach(n => n.remove());
+            result.forEach(function (product) {
+                count++;
+                const productContainer = document.createElement('div');
+                productContainer.classList.add('product');
+                productContainer.innerHTML = `
             <img src="${product.image}" alt="${product.alt}">
             <p class="products__productName">${product.name}</p>
             <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
             <a href="" class="productLink">ADD TO CART</a>`
-            productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
-            allProducts.appendChild(productContainer);
-            itemsNumber.innerHTML = count;
-        });
-    })
+                productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
+                allProducts.appendChild(productContainer);
+                itemsNumber.innerHTML = count;
+            });
+        })
 }
-if(manufactor){
+if (manufactor) {
     getProducts()
-    .then(function(products){
-        let result = products.filter(function (product){
-            return (manufactor == product.addInfo[0].manufactor);
-        });
-        document.querySelectorAll(".product").forEach(n => n.remove());
-        let count = 0;
-        let itemsNumber = document.querySelector(".itemsNumber");
-        let allProducts = document.querySelector(".products");
-        result.forEach(function (product) {
-            count++;
-            const productContainer = document.createElement('div');
-            productContainer.classList.add('product');
-            productContainer.innerHTML = `
+        .then(function (products) {
+            let result = products.filter(function (product) {
+                return (manufactor == product.addInfo[0].manufactor);
+            });
+            document.querySelectorAll(".product").forEach(n => n.remove());
+            let count = 0;
+            let itemsNumber = document.querySelector(".itemsNumber");
+            let allProducts = document.querySelector(".products");
+            result.forEach(function (product) {
+                count++;
+                const productContainer = document.createElement('div');
+                productContainer.classList.add('product');
+                productContainer.innerHTML = `
             <img src="${product.image}" alt="${product.alt}">
             <p class="products__productName">${product.name}</p>
             <p class="price"><span class="oldPrice">${product.oldPrice.toLocaleString('en-US')}</span>£${product.price.toLocaleString('en-US')}</p>
             <a href="" class="productLink">ADD TO CART</a>`
-            productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
-            allProducts.appendChild(productContainer);
-            itemsNumber.innerHTML = count;
-        });
-    })
+                productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
+                allProducts.appendChild(productContainer);
+                itemsNumber.innerHTML = count;
+            });
+        })
 }
 
 
 
 function getProducts() {
     return fetch("./data.json")
-    .then(function (response) {
-        return response.json();
-    })
-    .then(function (data) {
-        return data.product;
-    });
+        .then(function (response) {
+            return response.json();
+        })
+        .then(function (data) {
+            return data.product;
+        });
 }
 //myArray.slice().sort((a,b)=>a-b)
 

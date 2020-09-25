@@ -1,32 +1,38 @@
-
-.shop__background{
+.shop__background {
     background-color: #000;
 }
-.shop__container{
+
+.shop__container {
     background-color: #a39161;
     max-width: 800px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
 }
-.shopBrand{
+
+.shopBrand {
     display: grid;
     text-align: center;
     align-items: center;
 }
-.shopBrand a, .shopBrand img{
+
+.shopBrand a,
+.shopBrand img {
     grid-area: 1/1/1/1;
 }
-.shopBrand a{
+
+.shopBrand a {
     color: #fff;
     text-transform: uppercase;
     font-family: "Museo Sans Rounded 700";
 }
-.shopBrand img{
-    height: 200px;  
+
+.shopBrand img {
+    height: 200px;
     object-fit: cover;
 }
-.shopBrand button{
+
+.shopBrand button {
     font-family: "Museo Sans Rounded 700";
     text-transform: uppercase;
     color: #fff;

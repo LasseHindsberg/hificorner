@@ -4,26 +4,26 @@ let searchUrl = new URLSearchParams(window.location.search);
 // FETCHING DATA
 if (searchUrl.get("keyword")) {
     fetch(`./data.json`)
-    .then(data => data.json())
-    .then(function(data) {
-        // LOG DATA
-        console.log(data.product);
-        // 
-        let resultArray = data.product;
-        
-        //resultArray.name.forEach(function(product){
+        .then(data => data.json())
+        .then(function (data) {
+            // LOG DATA
+            console.log(data.product);
+            // 
+            let resultArray = data.product;
+
+            //resultArray.name.forEach(function(product){
             /*if (searchUrl.get("keyword") == product.name) {
                 resultArray.push(product);
             }*/
 
-            function removeProducts(){  
+            function removeProducts() {
                 document.querySelectorAll(".product").forEach(n => n.remove());
             };
-            
-            removeProducts();   
-            
+
+            removeProducts();
+
             resultArray.forEach(myFunction);
-      
+
             function myFunction(product) {
 
                 let allProducts = document.querySelector(".products");
@@ -31,9 +31,9 @@ if (searchUrl.get("keyword")) {
                 let description = product.description.toLowerCase();
                 let keyword = searchUrl.get("keyword").toLowerCase();
 
-                if (name.includes(keyword) ||  description.includes(keyword)) {
+                if (name.includes(keyword) || description.includes(keyword)) {
                     console.log("test");
-                    
+
                     const productContainer = document.createElement('div');
                     productContainer.classList.add('product');
                     productContainer.innerHTML = `
@@ -44,8 +44,7 @@ if (searchUrl.get("keyword")) {
                     productContainer.querySelector(".productLink").href = `./product.html?id=${product.id}`;
                     allProducts.appendChild(productContainer);
                 }
-            }   
+            }
         });
 
 };
-

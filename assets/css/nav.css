@@ -1,37 +1,45 @@
-nav ul{
-    list-style-type:none;
-    display:flex;
-    padding:1em 0;
+nav ul {
+    list-style-type: none;
+    display: flex;
+    padding: 1em 0;
     font-family: 'Museo Sans Rounded 300', 'Gill Sans';
     background-color: #000;
 }
-nav a{
-    text-decoration:none;
-    color:#FFF;
+
+nav a {
+    text-decoration: none;
+    color: #FFF;
     margin: 0 15px;
 }
-.nav__topUl{
+
+.nav__topUl {
     padding: 0.5em 0;
     color: white;
     font-size: 30px;
     justify-content: flex-end;
 }
-.nav__bottomUl{
-    border-top:solid 1px #a391617a;
+
+.nav__bottomUl {
+    border-top: solid 1px #a391617a;
     justify-content: center;
 }
-.current{
+
+.current {
     color: #a39161;
 }
-.user{
+
+.user {
     font-size: 0.9em
 }
-.cart{
+
+.cart {
     font-size: 0.9em;
 }
-.user-text{
+
+.user-text {
     font-size: 0.7em;
 }
-.cart-text{
+
+.cart-text {
     font-size: 0.7em;
 }
