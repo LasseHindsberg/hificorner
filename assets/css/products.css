@@ -90,9 +90,12 @@ select#sorting{
     font-weight: bold;
     margin-right: 20px;
 }
-.view img{
-    width: 1em;
+.grid-view, .lines-view{
     margin-left: 10px;
+}
+
+.line-view, .grid-view{
+    color: #000;
 }
 .right{
     align-items: center;

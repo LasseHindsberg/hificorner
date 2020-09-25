@@ -98,18 +98,20 @@
                 <div class="left">
                     <form>
                         <label for="sorting">SORT BY:</label>
-                        <select id="sorting" value="Price" name="sortlist" form="sortform">
+                        <select id="sorting" name="sortlist">
                             <option value="lowprice">Price - Lowest to Highest</option>
                             <option value="highprice">Price - Highest to Lowest</option>
                         </select>
                     </form>
-                    <p class="view">VIEW AS: <img src="./assets/img/screenshots/flag.png" alt="flag"></p>
+                    <p class="view">VIEW AS:</p>
+                    <a href="#" class="grid-view"><i class="fas fa-th-large grid-view"></i></a>
+                    <a href="#" class="line-view"><i class="fas fa-bars lines-view"></i></a>
                 </div>
                 <div class="right">
                     <p class="items"><span class="itemsNumber">0</span> Item(s)</p>
                     <form>
-                        <label for="show">SHOW:</label>
-                        <select id="number" name="numberlist" form="numberform">
+                        <label>SHOW:</label>
+                        <select id="number" name="numberlist">
                             <option value="number">300</option>
                             <option value="number">200</option>
                         </select>
