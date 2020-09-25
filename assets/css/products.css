@@ -57,7 +57,7 @@ html {
     font-size: 0.85em;
     color: rgb(117, 104, 76);
 }
-.amphead > p{
+.amphead > a{
     color: rgb(179, 162, 125);
     padding: 4px 0;
     padding-left: 5%;

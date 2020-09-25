@@ -1,0 +1,122 @@
+/*#region nav responsive */
+/* Animation for responsive nav fade in */
+@keyframes navLinkFade {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0px);
+        ;
+    }
+}
+
+
+
+.nav__logo {
+    letter-spacing: 5px;
+    font-size: 1.375em;
+    font-weight: bold;
+}
+
+.header__nav a:hover {
+    animation: changeColor 0.5s ease-in-out forwards;
+}
+
+
+
+/* Styling burger menu */
+
+.nav__burger {
+    display: none;
+    margin: 25px;
+    cursor: pointer;
+}
+
+.nav__burger div {
+    width: 25px;
+    height: 3px;
+    background-color: #a39161;
+    margin: 5px;
+    transition: all 0.3s ease;
+}
+
+.toggle .line1 {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.toggle .line2 {
+    opacity: 0;
+}
+
+.toggle .line3 {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+/* styling the navigation bar */
+.header__nav {
+    /* centering logo, so it's on same row as rest of text */
+    align-items: center;
+
+    background-color: rgba(0, 0, 0);
+    font-family: 'Museo Sans Rounded 300';
+    /* text-transform: uppercase; */
+    /* max-height: 8vh; */
+}
+
+.nav__bottomUl {
+    display: flex;
+    height: 8vh;
+    align-items: center;
+    text-transform: uppercase;
+    list-style: none;
+    width: 100%;
+}
+
+
+
+/* Tablet Styling */
+@media screen and (max-width:1024px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    /* NAV */
+    .nav__bottomUl {
+        position: absolute;
+        justify-content: space-around;
+        right: 0;
+        height: 92vh;
+        top: 8vh;
+        background-color: rgba(0, 0, 0, 0.8);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in
+    }
+
+    .nav__bottomUl li {
+        opacity: 0;
+    }
+
+    .header__nav--active {
+        transform: translateX(0%);
+    }
+
+    .header__nav {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .nav__burger {
+        display: block;
+        float: right;
+    }
+}
+
+/* #endregion */
+/* #region image responsive */
