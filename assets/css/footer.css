@@ -1,7 +1,7 @@
 footer {
     background-color: #a39161;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(500px, 550px));
     grid-column-gap: 10%;
     grid-row: 1fr;
     color: white;
@@ -44,5 +44,11 @@ footer a {
 .footer__grid_cell1,
 .footer__grid_cell2 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(350px, 360px));
+}
+@media screen and (max-width: 426px) {
+    footer p, footer{
+        text-align: center;
+    }  
+
 }

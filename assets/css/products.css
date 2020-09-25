@@ -107,13 +107,14 @@ select#sorting {
     font-weight: bold;
     margin-right: 20px;
 }
-
-.view img {
-    width: 1em;
+.grid-view, .lines-view{
     margin-left: 10px;
 }
 
-.right {
+.line-view, .grid-view{
+    color: #000;
+}
+.right{
     align-items: center;
     display: flex;
 }
@@ -173,7 +174,32 @@ p.price {
     margin: 0 auto;
     width: 70%;
 }
-
+.product-list{
+    border-bottom: solid #000000 1px;
+    margin-bottom: 1em;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(3, 1fr);
+}
+.product-list p{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.product-list .products__productName{
+    text-align: left;
+    margin: 1em 0;
+}
+.product-list .price, .product-list .oldPrice, .product-list a{
+    align-self: center;
+}
+.product-list a{
+    padding: 8px 16px;
+    background-color: rgb(179, 162, 125);
+    text-decoration: none;
+    color: white;
+    margin: 0 auto;
+}
 /*---------------------------------HØJRE SIDE---------------------------------*/
 
 .manufacturer {

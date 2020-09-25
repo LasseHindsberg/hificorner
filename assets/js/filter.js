@@ -281,6 +281,12 @@ function removeProducts(){
 
 
 
+// MANU AND PRICE FILTERING  MANU AND PRICE FILTERING  MANU AND PRICE FILTERING //
+/*
+function removeProducts(){  
+    document.querySelectorAll(".product").forEach(n => n.remove());
+}
+// MANU AND PRICE FILTERING  MANU AND PRICE FILTERING  MANU AND PRICE FILTERING //
 // MANUFACTOR FILTERING    MANUFACTOR FILTERING    MANUFACTOR FILTERING //
 // MANUFACTOR FILTERING    MANUFACTOR FILTERING    MANUFACTOR FILTERING //
 let arcam = document.querySelector(".arcam");
@@ -332,7 +338,6 @@ let sugdenAmount = document.querySelector(".sugdenAmount");
 let technicsAmount = document.querySelector(".technicsAmount");
 let trinnovAmount = document.querySelector(".trinnovAmount");
 let yamahaAmount = document.querySelector(".yamahaAmount");
-
 function manuFilter(){
     getProducts()
     .then(function (products) {
@@ -578,9 +583,13 @@ function manuFilter(){
                     addManufactor(manu);
                 });
             }
+<<<<<<< HEAD
+            
+=======
 
             
 
+>>>>>>> c7b62f0d24a1b625b45385f688ef21df47ea165c
         })
         function addManufactor(manu){
             let allProducts = document.querySelector(".products");
@@ -605,11 +614,17 @@ function manuFilter(){
     });
 }
 manuFilter();
+<<<<<<< HEAD
+let integrated = document.querySelector(".integrated");
+let power = document.querySelector(".power");
+let preamp = document.querySelector(".preamp");
+=======
 
 let integrated = document.querySelector(".integrated");
 let power = document.querySelector(".power");
 let preamp = document.querySelector(".preamp");
 
+>>>>>>> c7b62f0d24a1b625b45385f688ef21df47ea165c
 function categoryFilter() {
     getProducts()
     .then(function (products) {
@@ -660,9 +675,12 @@ function categoryFilter() {
     });
 }
 categoryFilter()
+<<<<<<< HEAD
+=======
 
 
 
 
 
+>>>>>>> c7b62f0d24a1b625b45385f688ef21df47ea165c
 */
