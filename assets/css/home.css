@@ -86,7 +86,7 @@ img {
 
 .social__section {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 330px));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
 .social__twitter a,
