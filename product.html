@@ -12,15 +12,19 @@
 <body class="body_product_view">
     <div class="wrapper">
         <header>
-            <nav>
+            <nav class="header__nav">
                 <ul class="nav__topUl">
-                    <li> <form action="search.html"> <input type="search" name="keyword" id="keyword"><button type="submit"></form><i
-                        class="fas fa-search"></i></button></li>
-                    <li><a href="#">Account<i class="fas fa-user"></i></a></li>
-                    <li><a href="#">Cart<i class="fas fa-shopping-cart"></i></a></li>
-                    <li><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
-                    <li><a href="#"><i class="fas fa-phone-alt"></i></a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i></a></li>
+                    <li>
+                        <form action="search.html"> <input type="search" name="keyword" id="keyword"><button
+                                type="submit"></form><i class="fas fa-search"></i></button>
+                    </li>
+                    <li><a href="#" class="user-text"><i class="fas fa-user user"></i>Account</a></li>
+                    <li><a href="#" class="mobile-icon"><i class="fas fa-user user"></i></a></li>
+                    <li><a href="#" class="cart-text"><i class="fas fa-shopping-cart cart"></i>Cart</a></li>
+                    <li><a href="#" class="mobile-icon"><i class="fas fa-shopping-cart cart"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-phone-alt"></i></a></li>
+                    <li class="UwU"><a href="#"><i class="fas fa-envelope"></i></a></li>
                 </ul>
                 <ul class="nav__bottomUl">
                     <li><a href="index.html">HOME</a></li>
@@ -28,9 +32,14 @@
                     <li><a href="brands.html">BRANDS</a></li>
                     <li><a href="#">BLOG</a></li>
                     <li><a href="#">EVENTS</a></li>
-                    <li><a href="shop.html">SHOP</a></li>
+                    <li><a href="shop.html" class="current">SHOP</a></li>
                     <li><a href="#">CONTACT US</a></li>
                 </ul>
+                <div class="nav__burger">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
             </nav>
         </header>
 
@@ -44,61 +53,23 @@
 
 
             <article class="article_product_view">
-                <section class="product_view_img"><img class="productImg" src="https://via.placeholder.com/600x400"
-                        alt="placeholder">
 
-                    <h2>MORE VIEWS</h2>
+                <section class="product_view_img"><img class="productImg" src="https://via.placeholder.com/600x400" alt="placeholder">
+
                     <div class="moreviews">
+                        <h2>MORE VIEWS</h2>
                         <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x50"
                                 alt="placeholder"></a>
                         <a href="https://placeholder.com"><img src="https://via.placeholder.com/70x50"
                                 alt="placeholder"></a>
                     </div>
-
-                    <h2 class="product_description_name">DESCRIPTION</h2>
-                    <article class="product_description">
-                        <p>Power Output (8/4 Ohm RMS)</p>
-                        <p class="power_output_name">45 W / 60 W &nbsp; 10Hz</p>
-
-                        <p>Frequency</p>
-                        <p class="frequency_name">X &nbsp; 70kHz</p>
-
-                        <p>Total Harmonic Distortion</p>
-                        <p class="total_harmonic_name">0.08%</p>
-
-                        <p>Damping Factor</p>
-                        <p class="damping_factor_name">100</p>
-
-                        <p>Input Sensitivity: MM</p>
-                        <p class="input_sensitivity_mm_name">2.2mV / 47 kOhm</p>
-
-                        <p>Input Sensitivity: MC</p>
-                        <p class="input_sensitivity_mc_name">X</p>
-
-                        <p>Signal to Noise Ratio: MM / MC</p>
-                        <p class="signal_noise_name">83 dB / X</p>
-
-                        <p>Input Sensitivity: High level</p>
-                        <p class="input_sensitivity_high_name">X</p>
-
-                        <p>Input Sensitivity: Balanced High level</p>
-                        <p class="input_sensitivity_bal_name">X</p>
-
-                        <p>Signal to Noise Ratio: High level</p>
-                        <p class="signal_noise_high_name">102dB(2V input)</p>
-
-                        <p>Input Sensitivity: Power Amp Direct IN</p>
-                        <p class="input_sensitivity_amp_name">X</p>
-
-                        <p>Signal to Noise Ratio: Power Amp Direct IN</p>
-                        <p class="signal_noise_amp_name">X</p>
-                    </article>
                 </section>
+                
                 <section class="product_view_info">
                     <h2 class="product_name">Marantz PM6006 UK Edition Integrated Amplifier</h2>
                     <div class="text_price">
                         <a href="#" class="see_other_products">See other Marantz products</a>
-                        <p> <span class="old_price">£469.00</span> <span class="price">£429.00</span> </p>
+                        <p> <span class="old_price">£469.00</span> £<span class="price">£429.00</span> </p>
                     </div>
                     <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum inventore
                         officia ipsum corporis mollitia? Tenetur beatae incidunt autem consequatur obcaecati perferendis
@@ -160,6 +131,45 @@
                 </section>
 
             </article>
+            <div>
+                <h2 class="product_description_name">DESCRIPTION</h2>
+                <article class="product_description">
+                    <p>Power Output (8/4 Ohm RMS)</p>
+                    <p class="power_output_name">45 W / 60 W &nbsp; 10Hz</p>
+
+                    <p>Frequency</p>
+                    <p class="frequency_name">X &nbsp; 70kHz</p>
+
+                    <p>Total Harmonic Distortion</p>
+                    <p class="total_harmonic_name">0.08%</p>
+
+                    <p>Damping Factor</p>
+                    <p class="damping_factor_name">100</p>
+
+                    <p>Input Sensitivity: MM</p>
+                    <p class="input_sensitivity_mm_name">2.2mV / 47 kOhm</p>
+
+                    <p>Input Sensitivity: MC</p>
+                    <p class="input_sensitivity_mc_name">X</p>
+
+                    <p>Signal to Noise Ratio: MM / MC</p>
+                    <p class="signal_noise_name">83 dB / X</p>
+
+                    <p>Input Sensitivity: High level</p>
+                    <p class="input_sensitivity_high_name">X</p>
+
+                    <p>Input Sensitivity: Balanced High level</p>
+                    <p class="input_sensitivity_bal_name">X</p>
+
+                    <p>Signal to Noise Ratio: High level</p>
+                    <p class="signal_noise_high_name">102dB(2V input)</p>
+
+                    <p>Input Sensitivity: Power Amp Direct IN</p>
+                    <p class="input_sensitivity_amp_name">X</p>
+
+                    <p>Signal to Noise Ratio: Power Amp Direct IN</p>
+                    <p class="signal_noise_amp_name">X</p>
+                </div>
             <div class="call_us">
                 <h2><i class="fas fa-phone"></i> CALL US ABOUT THIS PRODUCT</h2>
             </div>
@@ -189,6 +199,7 @@
         </footer>
     </div>
     <script src="./assets/js/product.js"></script>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>

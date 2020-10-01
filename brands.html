@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="da">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,22 +12,29 @@
 
 <body>
     <div class="wrapper">
-        <nav>
-            <ul class="nav__topUl">
-                <a href="#"><i class="fas fa-map-marker-alt"></i></a>
-                <a href="#"><i class="fas fa-phone-alt"></i></a>
-                <a href="#"><i class="fas fa-envelope"></i></a>
-            </ul>
-            <ul class="nav__bottomUl">
-                <li><a href="index.html">HOME</a></li>
-                <li><a href="#">ABOUT US</a></li>
-                <li><a href="brands.html" class="current">BRANDS</a></li>
-                <li><a href="#">BLOG</a></li>
-                <li><a href="#">EVENTS</a></li>
-                <li><a href="shop.html">SHOP</a></li>
-                <li><a href="#">CONTACT US</a></li>
-            </ul>
-        </nav>
+        <header>
+            <nav class="header__nav">
+                <ul class="nav__topUl">
+                    <li><a href="#"><i class="fas fa-map-marker-alt"></i></a></li>
+                    <li><a href="#"><i class="fas fa-phone-alt"></i></a></li>
+                    <li><a href="#"><i class="fas fa-envelope"></i></a></li>
+                </ul>
+                <ul class="nav__bottomUl">
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="#">ABOUT US</a></li>
+                    <li><a href="brands.html" class="current">BRANDS</a></li>
+                    <li><a href="#">BLOG</a></li>
+                    <li><a href="#">EVENTS</a></li>
+                    <li><a href="shop.html">SHOP</a></li>
+                    <li><a href="#">CONTACT US</a></li>
+                </ul>
+                <div class="nav__burger">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+            </nav>
+        </header>
 
         <section id="brands">
             <div class="brands__header">
@@ -46,9 +54,15 @@
                 </div>
                 <div class="brands__text">
                     <h2 class="brands__text__h2">Brands</h2>
-                    <p class="brands__text__paragraph">As an independent retailer of home audio and visual products, we are able to select the very best brands and manufacturers from across the world.</p>
-                    <p class="brands__text__paragraph">Not only do we have the best known brands such as B&W, Devialet, KEF, Naim, and Linn; we also stock and are well versified with smaller autonomous companies like Michell Engineering, Neat Acoustics, Harbeth, SME, Trichord Research, PrimaLuna, to name but a few.</p>
-                    <p class="brands__text__paragraph">With over a hundred brands, we can happily say that if a brand meets our high standards for sound reproduction, then you can be assured to find it at Hi-Fi Corner.</p>
+                    <p class="brands__text__paragraph">As an independent retailer of home audio and visual products, we
+                        are able to select the very best brands and manufacturers from across the world.</p>
+                    <p class="brands__text__paragraph">Not only do we have the best known brands such as B&W, Devialet,
+                        KEF, Naim, and Linn; we also stock and are well versified with smaller autonomous companies like
+                        Michell Engineering, Neat Acoustics, Harbeth, SME, Trichord Research, PrimaLuna, to name but a
+                        few.</p>
+                    <p class="brands__text__paragraph">With over a hundred brands, we can happily say that if a brand
+                        meets our high standards for sound reproduction, then you can be assured to find it at Hi-Fi
+                        Corner.</p>
                     <a href="" class="brands__text__link">VISIT OUR SHOP TO FIND MORE BRANDS&gt;</a>
                 </div>
             </div>
@@ -77,6 +91,7 @@
             </section>
         </footer>
     </div>
+    <script src="./assets/js/navSlide.js" defer></script>
 </body>
 
 </html>
