@@ -1,9 +1,17 @@
 // FINDING URL
 let searchUrl = new URLSearchParams(window.location.search);
 
+    function removeProducts(){  
+        document.querySelectorAll(".product").forEach(n => n.remove());
+    };
+
 // FETCHING DATA
 if (searchUrl.get("keyword")) {
+    
+    removeProducts(); 
+
     fetch(`./data.json`)
+
         .then(data => data.json())
         .then(function (data) {
             // LOG DATA
@@ -22,6 +30,7 @@ if (searchUrl.get("keyword")) {
 
             removeProducts();
 
+
             resultArray.forEach(myFunction);
 
             function myFunction(product) {
@@ -31,8 +40,8 @@ if (searchUrl.get("keyword")) {
                 let description = product.description.toLowerCase();
                 let keyword = searchUrl.get("keyword").toLowerCase();
 
-                if (name.includes(keyword) || description.includes(keyword)) {
-                    console.log("test");
+                if (name.includes(keyword) ||  description.includes(keyword)) {
+                    //console.log("test");
 
                     const productContainer = document.createElement('div');
                     productContainer.classList.add('product');
