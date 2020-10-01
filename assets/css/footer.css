@@ -1,39 +1,54 @@
-footer{
+footer {
     background-color: #a39161;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(500px, 550px));
     grid-column-gap: 10%;
     grid-row: 1fr;
     color: white;
     font-family: 'Roboto', sans-serif;
 }
-footer a{
+
+footer a {
     color: white;
 }
-.footer__place{
+
+.footer__place {
     font-size: 12px;
     margin-left: 3%;
     color: #000000;
     font-weight: 500;
 }
+
 .footer__place p:first-of-type {
     margin-top: 1em;
 }
-.footer__refund{
+
+.footer__refund {
     margin-top: 0.6em;
 }
-.footer__refund a{
+
+.footer__refund a {
     font-size: 14px;
 }
-.footer__social{
+
+.footer__social {
     color: white;
     text-align: center;
 }
-.footer__social i{
+
+.footer__social i {
     padding-top: 0.5em;
     font-size: 2em;
 }
-.footer__grid_cell1, .footer__grid_cell2{
+
+.footer__grid_cell1,
+.footer__grid_cell2 {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(350px, 360px));
+}
+@media screen and (max-width: 426px) {
+    footer p, footer{
+        text-align: center;
+    }  
+
 }
